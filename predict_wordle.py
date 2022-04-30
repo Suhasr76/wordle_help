@@ -72,10 +72,10 @@ def check(word):
 inp = 1
 while inp:
 
-    a1 = [(i) for i in input('a1 - ').split(' ')]
+    a1 = [(i) for i in input('Green {pos letter} - ').split(' ')]
     #a2 = [i for i in input('a2 - ').split(" ")]
-    b1 = [i for i in input('b - ').split(' ')]
-    c1 = [i for i in input('c - ').split(' ')]
+    b1 = [i for i in input('yellow {letter} - ').split(' ')]
+    c1 = [i for i in input('Grey {letter} - ').split(' ')]
     print(a1, b1, c1)
     if len(a1) > 1:
         for i in range(0, len(a1), 2):

@@ -15,7 +15,7 @@ for i in valid:
 
 # print(target)
 
-a, b, c = {}, [], []
+a, b, c = {}, {}, []
 
 
 def predict(a, b, c):
@@ -30,9 +30,16 @@ def predict(a, b, c):
                     a1 = 0
                     break
             for j in b:
-                if j not in i:
+                if b[j] in i:
+                    if i[j] == b[j]:
+                        b1 = 0
+                        break
+                else:
                     b1 = 0
                     break
+                ''' if j not in i:
+                    b1 = 0
+                    break '''
             for j in c:
                 if j in i:
                     c1 = 0
@@ -44,7 +51,7 @@ def predict(a, b, c):
     print(f"Probabilty - {len(predicted)}/{len(valid)}")
 
 
-''' 
+'''
 
 def check(word):
     print(" "*13, end='')
@@ -73,8 +80,8 @@ inp = 1
 while inp:
 
     a1 = [(i) for i in input('Green {pos letter} - ').split(' ')]
-    #a2 = [i for i in input('a2 - ').split(" ")]
-    b1 = [i for i in input('yellow {letter} - ').split(' ')]
+    # a2 = [i for i in input('a2 - ').split(" ")]
+    b1 = [(i) for i in input('yellow {pos letter} - ').split(' ')]
     c1 = [i for i in input('Grey {letter} - ').split(' ')]
     print(a1, b1, c1)
     if len(a1) > 1:
@@ -82,10 +89,14 @@ while inp:
             print(i)
             if int(a1[i]) not in a:
                 a[int(a1[i])] = a1[i+1]
-    if len(b1) > 1 and '' not in b1:
-        for i in b1:
+    if len(b1) > 1:
+        for i in range(0, len(b1), 2):
+            print(i)
+            if int(b1[i]) not in b:
+                b[int(b1[i])] = b1[i+1]
+        ''' for i in b1:
             if i not in b:
-                b.append(i)
+                b.append(i) '''
     if len(c1) > 0 and '' not in c1:
         for i in c1:
             if i not in c:

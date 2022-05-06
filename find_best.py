@@ -100,7 +100,7 @@ class Predict:
             new_predict, target, poss_list, count+1, history, a, b, c, valid_guess, max_guess)
 
     def start_to_find_no_of_steps(self):
-        f = open('output_100.txt', 'w')
+        f = open('output_100_4.txt', 'w')
         final = []
         for word in valid:
             count = 0

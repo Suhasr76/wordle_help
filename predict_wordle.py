@@ -2,9 +2,9 @@ from ast import For
 from colorama import Fore
 import colorama
 import random
-from aggregate_best import *
+# from aggregate_best import *
 
-f = open("valid.txt", 'r')
+f = open("words/valid_6_letter.txt", 'r')
 valid = []
 while True:
     word = f.readline()
@@ -33,8 +33,8 @@ glo_flag = False
 
 l_100 = [1, 2, 3, 4]
 l_1000 = [1, 2, 3]
-sol1 = Aggregate_best()
-rankList = sol1.find_average_dict("output_1000_", l_1000)
+#sol1 = Aggregate_best()
+#rankList = sol1.find_average_dict("outputs/output_1000_", l_1000)
 
 
 def predict(a, b, c):
@@ -74,14 +74,14 @@ def predict(a, b, c):
         print(f"Answer - {predicted[0]}")
         glo_flag = True
     print(sorted(predicted))
-    minRank = 10000
+    ''' minRank = 10000
     for word in sorted(predicted):
         temp = rankList.index(word)
         if temp < minRank:
-            minRank = temp
+            minRank = temp '''
     print(f"Probabilty - {len(predicted)}/{len(valid)}")
     # print(minRank)
-    print(f"Suggested Word - {rankList[minRank]}, minRank - {minRank}")
+    # print(f"Suggested Word - {rankList[minRank]}, minRank - {minRank}")
 
 
 '''

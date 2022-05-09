@@ -1,0 +1,2500 @@
+boater	100	2.49	none
+barest	100	2.52	none
+brines	100	2.52	none
+canter	100	2.52	none
+mature	100	2.52	none
+amines	100	2.53	none
+caries	100	2.55	none
+blares	100	2.56	none
+panels	100	2.56	none
+sector	100	2.56	none
+throne	100	2.56	none
+cantor	100	2.57	none
+silent	100	2.57	none
+rating	99	2.576	1	7.0
+angsty	100	2.58	none
+baring	100	2.58	none
+grains	100	2.58	none
+tribes	100	2.58	none
+stable	99	2.586	1	7.0
+abides	100	2.59	none
+acting	100	2.59	none
+actors	100	2.59	none
+balder	100	2.59	none
+braces	100	2.59	none
+castle	99	2.596	1	7.0
+aligns	100	2.6	none
+amused	100	2.6	none
+batons	100	2.6	none
+bestir	100	2.6	none
+metals	100	2.6	none
+rifles	100	2.6	none
+sorted	100	2.6	none
+bourne	98	2.602	2	7.0
+blinds	100	2.61	none
+castor	100	2.61	none
+ladies	100	2.61	none
+heroes	99	2.616	1	7.0
+plates	99	2.616	1	7.0
+boiled	97	2.619	3	7.333
+advert	100	2.62	none
+binder	100	2.62	none
+boreal	100	2.62	none
+carbon	100	2.62	none
+carton	100	2.62	none
+demons	100	2.62	none
+mother	100	2.62	none
+points	100	2.62	none
+racist	100	2.62	none
+albedo	99	2.626	1	7.0
+bather	99	2.626	1	7.0
+bracts	99	2.626	1	7.0
+hotels	99	2.626	1	8.0
+albeit	100	2.63	none
+ambles	100	2.63	none
+bacons	100	2.63	none
+banter	100	2.63	none
+carpet	100	2.63	none
+filter	100	2.63	none
+piston	100	2.63	none
+turned	100	2.63	none
+senior	99	2.636	1	7.0
+adobes	100	2.64	none
+beards	100	2.64	none
+cardio	100	2.64	none
+giants	100	2.64	none
+mailed	100	2.64	none
+retail	100	2.64	none
+bidets	98	2.643	2	7.5
+barite	99	2.646	1	9.0
+burned	99	2.646	1	7.0
+dental	99	2.646	1	7.0
+fruits	99	2.646	1	7.0
+parent	99	2.646	1	8.0
+rivals	99	2.646	1	8.0
+alters	100	2.65	none
+autism	100	2.65	none
+barons	100	2.65	none
+biogas	100	2.65	none
+biters	100	2.65	none
+boners	100	2.65	none
+borate	100	2.65	none
+busted	100	2.65	none
+camels	100	2.65	none
+capers	100	2.65	none
+carols	100	2.65	none
+donate	100	2.65	none
+ground	100	2.65	none
+guitar	100	2.65	none
+heroin	100	2.65	none
+phrase	100	2.65	none
+plains	100	2.65	none
+planet	100	2.65	none
+sprint	100	2.65	none
+stance	100	2.65	none
+stream	100	2.65	none
+tracks	100	2.65	none
+worlds	100	2.65	none
+canopy	99	2.657	1	8.0
+crimes	99	2.657	1	7.0
+deaths	99	2.657	1	7.0
+amends	100	2.66	none
+amours	100	2.66	none
+aprons	100	2.66	none
+batiks	100	2.66	none
+beater	100	2.66	none
+bruins	100	2.66	none
+carped	100	2.66	none
+claims	100	2.66	none
+portal	100	2.66	none
+ranged	100	2.66	none
+salmon	100	2.66	none
+winter	100	2.66	none
+absent	99	2.667	1	7.0
+aliens	99	2.667	1	7.0
+aorist	99	2.667	1	7.0
+client	99	2.667	1	7.0
+active	100	2.67	none
+alerts	100	2.67	none
+angles	100	2.67	none
+arisen	100	2.67	none
+ascent	100	2.67	none
+aspect	100	2.67	none
+blared	100	2.67	none
+blurts	100	2.67	none
+canids	100	2.67	none
+canker	100	2.67	none
+captor	100	2.67	none
+charts	100	2.67	none
+chimed	100	2.67	none
+duties	100	2.67	none
+forums	100	2.67	none
+garlic	100	2.67	none
+market	100	2.67	none
+mental	100	2.67	none
+secret	100	2.67	none
+strain	100	2.67	none
+trails	100	2.67	none
+aiders	99	2.677	1	8.0
+albino	99	2.677	1	8.0
+blader	99	2.677	1	7.0
+buries	99	2.677	1	7.0
+calmed	99	2.677	1	7.0
+abated	100	2.68	none
+albite	100	2.68	none
+baster	100	2.68	none
+broils	100	2.68	none
+cargos	100	2.68	none
+colder	100	2.68	none
+copies	100	2.68	none
+master	100	2.68	none
+merits	100	2.68	none
+nearly	100	2.68	none
+person	100	2.68	none
+planes	100	2.68	none
+subtle	100	2.68	none
+trains	100	2.68	none
+tricks	100	2.68	none
+basket	98	2.684	2	7.0
+parcel	98	2.684	2	7.0
+barged	99	2.687	1	7.0
+finale	99	2.687	1	8.0
+listed	99	2.687	1	7.0
+search	99	2.687	1	7.0
+antler	100	2.69	none
+backer	100	2.69	none
+baiter	100	2.69	none
+barges	100	2.69	none
+basely	100	2.69	none
+bleats	100	2.69	none
+blonds	100	2.69	none
+cabins	100	2.69	none
+cameos	100	2.69	none
+candor	100	2.69	none
+courts	100	2.69	none
+creams	100	2.69	none
+gained	100	2.69	none
+hearts	100	2.69	none
+marble	100	2.69	none
+marine	100	2.69	none
+ratios	100	2.69	none
+relate	100	2.69	none
+rental	100	2.69	none
+sacred	100	2.69	none
+saying	100	2.69	none
+stolen	100	2.69	none
+audits	98	2.694	2	7.0
+balled	99	2.697	1	10.0
+boards	99	2.697	1	8.0
+butter	99	2.697	1	7.0
+places	99	2.697	1	7.0
+tragic	99	2.697	1	7.0
+varied	99	2.697	1	8.0
+action	100	2.7	none
+agents	100	2.7	none
+almost	100	2.7	none
+alpine	100	2.7	none
+amidst	100	2.7	none
+anoles	100	2.7	none
+argent	100	2.7	none
+asters	100	2.7	none
+atrial	100	2.7	none
+attics	100	2.7	none
+auntie	100	2.7	none
+bistro	100	2.7	none
+bleary	100	2.7	none
+boiler	100	2.7	none
+builds	100	2.7	none
+bulked	100	2.7	none
+burlap	100	2.7	none
+cantos	100	2.7	none
+cation	100	2.7	none
+catsup	100	2.7	none
+dating	100	2.7	none
+launch	100	2.7	none
+learns	100	2.7	none
+lineup	100	2.7	none
+locate	100	2.7	none
+neatly	100	2.7	none
+oldest	100	2.7	none
+smiled	100	2.7	none
+social	100	2.7	none
+sought	100	2.7	none
+staple	100	2.7	none
+stored	100	2.7	none
+tables	100	2.7	none
+desire	99	2.707	1	7.0
+scared	99	2.707	1	7.0
+sewing	99	2.707	1	7.0
+upload	99	2.707	1	9.0
+wander	99	2.707	1	7.0
+abuser	100	2.71	none
+adsorb	100	2.71	none
+alders	100	2.71	none
+angled	100	2.71	none
+anodic	100	2.71	none
+armies	100	2.71	none
+bairns	100	2.71	none
+bakers	100	2.71	none
+bangle	100	2.71	none
+blades	100	2.71	none
+blimey	100	2.71	none
+bounty	100	2.71	none
+braids	100	2.71	none
+brands	100	2.71	none
+buster	100	2.71	none
+cables	100	2.71	none
+caroms	100	2.71	none
+cartel	100	2.71	none
+casino	100	2.71	none
+chaste	100	2.71	none
+chorus	100	2.71	none
+depart	100	2.71	none
+lasted	100	2.71	none
+medals	100	2.71	none
+paired	100	2.71	none
+parole	100	2.71	none
+pistol	100	2.71	none
+spider	100	2.71	none
+trades	100	2.71	none
+tribal	100	2.71	none
+canoed	98	2.714	2	7.0
+learnt	98	2.714	2	7.0
+anemic	99	2.717	1	7.0
+ascend	99	2.717	1	7.0
+gloves	99	2.717	1	7.0
+insert	99	2.717	1	7.0
+parked	99	2.717	1	7.0
+prints	99	2.717	1	7.0
+tongue	99	2.717	1	7.0
+artist	100	2.72	none
+bander	100	2.72	none
+banged	100	2.72	none
+beacon	100	2.72	none
+bodies	100	2.72	none
+braced	100	2.72	none
+brinks	100	2.72	none
+brutes	100	2.72	none
+casing	100	2.72	none
+casket	100	2.72	none
+cavity	100	2.72	none
+censor	100	2.72	none
+closes	100	2.72	none
+crafts	100	2.72	none
+gluten	100	2.72	none
+heroic	100	2.72	none
+island	100	2.72	none
+mentor	100	2.72	none
+partly	100	2.72	none
+random	100	2.72	none
+spaces	100	2.72	none
+traits	100	2.72	none
+acetyl	99	2.727	1	7.0
+amnion	99	2.727	1	7.0
+barely	99	2.727	1	7.0
+barley	99	2.727	1	8.0
+bodice	99	2.727	1	8.0
+bonier	99	2.727	1	7.0
+burden	99	2.727	1	7.0
+busied	99	2.727	1	7.0
+carpel	99	2.727	1	7.0
+gather	99	2.727	1	7.0
+gospel	99	2.727	1	7.0
+stroke	99	2.727	1	7.0
+abodes	100	2.73	none
+astern	100	2.73	none
+balers	100	2.73	none
+basils	100	2.73	none
+baying	100	2.73	none
+bilked	100	2.73	none
+births	100	2.73	none
+blames	100	2.73	none
+bolted	100	2.73	none
+brides	100	2.73	none
+broads	100	2.73	none
+caftan	100	2.73	none
+camped	100	2.73	none
+cavils	100	2.73	none
+costly	100	2.73	none
+credit	100	2.73	none
+curves	100	2.73	none
+direct	100	2.73	none
+during	100	2.73	none
+groups	100	2.73	none
+handle	100	2.73	none
+latest	100	2.73	none
+laying	100	2.73	none
+length	100	2.73	none
+pastor	100	2.73	none
+pencil	100	2.73	none
+pounds	100	2.73	none
+prince	100	2.73	none
+ruling	100	2.73	none
+serial	100	2.73	none
+trials	100	2.73	none
+abused	99	2.737	1	8.0
+banger	99	2.737	1	7.0
+basted	99	2.737	1	7.0
+bulged	99	2.737	1	7.0
+editor	99	2.737	1	7.0
+enters	99	2.737	1	7.0
+finals	99	2.737	1	7.0
+garden	99	2.737	1	7.0
+adults	100	2.74	none
+albums	100	2.74	none
+antral	100	2.74	none
+artful	100	2.74	none
+avidly	100	2.74	none
+boring	100	2.74	none
+brawns	100	2.74	none
+burkas	100	2.74	none
+canted	100	2.74	none
+carted	100	2.74	none
+caters	100	2.74	none
+celery	100	2.74	none
+closet	100	2.74	none
+coated	100	2.74	none
+cousin	100	2.74	none
+delays	100	2.74	none
+entire	100	2.74	none
+glance	100	2.74	none
+labour	100	2.74	none
+metric	100	2.74	none
+prices	100	2.74	none
+stairs	100	2.74	none
+thread	100	2.74	none
+tokens	100	2.74	none
+traced	100	2.74	none
+bitter	97	2.742	3	7.0
+anther	98	2.745	2	7.0
+biased	98	2.745	2	8.0
+median	98	2.745	2	7.0
+aortic	99	2.747	1	7.0
+breads	99	2.747	1	8.0
+bundle	99	2.747	1	8.0
+caster	99	2.747	1	7.0
+caused	99	2.747	1	7.0
+ampule	100	2.75	none
+arches	100	2.75	none
+argued	100	2.75	none
+awhile	100	2.75	none
+banker	100	2.75	none
+bathes	100	2.75	none
+bigots	100	2.75	none
+bridal	100	2.75	none
+burton	100	2.75	none
+campos	100	2.75	none
+caring	100	2.75	none
+chafes	100	2.75	none
+chesty	100	2.75	none
+column	100	2.75	none
+danger	100	2.75	none
+debris	100	2.75	none
+drives	100	2.75	none
+drones	100	2.75	none
+emails	100	2.75	none
+fibers	100	2.75	none
+german	100	2.75	none
+impact	100	2.75	none
+listen	100	2.75	none
+pastry	100	2.75	none
+petrol	100	2.75	none
+raised	100	2.75	none
+ranges	100	2.75	none
+seldom	100	2.75	none
+slider	100	2.75	none
+timber	100	2.75	none
+visual	100	2.75	none
+antics	98	2.755	2	7.0
+badder	98	2.755	2	7.5
+ceased	98	2.755	2	7.0
+aphids	99	2.758	1	7.0
+barony	99	2.758	1	8.0
+bonsai	99	2.758	1	9.0
+branch	99	2.758	1	7.0
+canals	99	2.758	1	7.0
+cruise	99	2.758	1	7.0
+losing	99	2.758	1	8.0
+postal	99	2.758	1	7.0
+alumni	100	2.76	none
+amicus	100	2.76	none
+animal	100	2.76	none
+anodes	100	2.76	none
+anoint	100	2.76	none
+antrum	100	2.76	none
+baling	100	2.76	none
+bashed	100	2.76	none
+bedsit	100	2.76	none
+behold	100	2.76	none
+belies	100	2.76	none
+bidder	100	2.76	none
+biotas	100	2.76	none
+brooms	100	2.76	none
+bruise	100	2.76	none
+bungle	100	2.76	none
+calved	100	2.76	none
+canape	100	2.76	none
+candle	100	2.76	none
+carboy	100	2.76	none
+carnal	100	2.76	none
+carved	100	2.76	none
+catkin	100	2.76	none
+catnip	100	2.76	none
+cedars	100	2.76	none
+chased	100	2.76	none
+chinas	100	2.76	none
+closer	100	2.76	none
+create	100	2.76	none
+linked	100	2.76	none
+minors	100	2.76	none
+modest	100	2.76	none
+mostly	100	2.76	none
+muscle	100	2.76	none
+optics	100	2.76	none
+oracle	100	2.76	none
+permit	100	2.76	none
+pieces	100	2.76	none
+priest	100	2.76	none
+scored	100	2.76	none
+script	100	2.76	none
+second	100	2.76	none
+streak	100	2.76	none
+toward	100	2.76	none
+shield	98	2.765	2	7.0
+arched	99	2.768	1	7.0
+boudin	99	2.768	1	8.0
+buffet	99	2.768	1	7.0
+bulges	99	2.768	1	7.0
+canard	99	2.768	1	7.0
+cavort	99	2.768	1	7.0
+cereus	99	2.768	1	7.0
+dialog	99	2.768	1	8.0
+graphs	99	2.768	1	7.0
+period	99	2.768	1	7.0
+ritual	99	2.768	1	7.0
+sooner	99	2.768	1	7.0
+valued	99	2.768	1	7.0
+adores	100	2.77	none
+altars	100	2.77	none
+armpit	100	2.77	none
+beaten	100	2.77	none
+befits	100	2.77	none
+berate	100	2.77	none
+bicker	100	2.77	none
+bleeps	100	2.77	none
+blotch	100	2.77	none
+braise	100	2.77	none
+braved	100	2.77	none
+bucket	100	2.77	none
+burial	100	2.77	none
+capons	100	2.77	none
+chalet	100	2.77	none
+closed	100	2.77	none
+covers	100	2.77	none
+devils	100	2.77	none
+drills	100	2.77	none
+grants	100	2.77	none
+heated	100	2.77	none
+linear	100	2.77	none
+minute	100	2.77	none
+praise	100	2.77	none
+prison	100	2.77	none
+recipe	100	2.77	none
+rights	100	2.77	none
+scouts	100	2.77	none
+shades	100	2.77	none
+singer	100	2.77	none
+sounds	100	2.77	none
+batman	99	2.778	1	7.0
+beings	99	2.778	1	7.0
+breath	99	2.778	1	8.0
+nicely	99	2.778	1	7.0
+photos	99	2.778	1	8.0
+purity	99	2.778	1	7.0
+spirit	99	2.778	1	7.0
+sponge	99	2.778	1	7.0
+acuity	100	2.78	none
+ailing	100	2.78	none
+airmen	100	2.78	none
+armlet	100	2.78	none
+arrows	100	2.78	none
+barbie	100	2.78	none
+battle	100	2.78	none
+biller	100	2.78	none
+bipeds	100	2.78	none
+blanks	100	2.78	none
+bogies	100	2.78	none
+boules	100	2.78	none
+bounce	100	2.78	none
+brazen	100	2.78	none
+brunch	100	2.78	none
+cabled	100	2.78	none
+ceding	100	2.78	none
+cellos	100	2.78	none
+chapel	100	2.78	none
+comply	100	2.78	none
+counts	100	2.78	none
+course	100	2.78	none
+enable	100	2.78	none
+flames	100	2.78	none
+inches	100	2.78	none
+matter	100	2.78	none
+nature	100	2.78	none
+patrol	100	2.78	none
+racism	100	2.78	none
+result	100	2.78	none
+robust	100	2.78	none
+suited	100	2.78	none
+thrill	100	2.78	none
+warned	100	2.78	none
+labels	97	2.784	3	8.0
+dancer	98	2.786	2	7.0
+unfair	98	2.786	2	7.5
+banish	99	2.788	1	8.0
+binary	99	2.788	1	8.0
+blunts	99	2.788	1	8.0
+boated	99	2.788	1	8.0
+boucle	99	2.788	1	7.0
+exotic	99	2.788	1	7.0
+laughs	99	2.788	1	7.0
+polite	99	2.788	1	7.0
+relied	99	2.788	1	7.0
+retain	99	2.788	1	7.0
+tumors	99	2.788	1	7.0
+united	99	2.788	1	7.0
+anions	100	2.79	none
+ardent	100	2.79	none
+atonal	100	2.79	none
+author	100	2.79	none
+bardic	100	2.79	none
+barrel	100	2.79	none
+bathed	100	2.79	none
+beauty	100	2.79	none
+berets	100	2.79	none
+biases	100	2.79	none
+biomes	100	2.79	none
+bladed	100	2.79	none
+bleach	100	2.79	none
+bovine	100	2.79	none
+bowler	100	2.79	none
+bustle	100	2.79	none
+calves	100	2.79	none
+canton	100	2.79	none
+chairs	100	2.79	none
+double	100	2.79	none
+fabric	100	2.79	none
+factor	100	2.79	none
+faster	100	2.79	none
+forget	100	2.79	none
+inputs	100	2.79	none
+insure	100	2.79	none
+normal	100	2.79	none
+notice	100	2.79	none
+sample	100	2.79	none
+socket	100	2.79	none
+spoken	100	2.79	none
+stones	100	2.79	none
+talked	100	2.79	none
+theory	100	2.79	none
+viable	100	2.79	none
+virtue	100	2.79	none
+wasted	100	2.79	none
+wisely	100	2.79	none
+arsons	98	2.796	2	7.0
+apneas	99	2.798	1	7.0
+berlin	99	2.798	1	7.0
+berths	99	2.798	1	7.0
+bestow	99	2.798	1	7.0
+bitten	99	2.798	1	7.0
+bowels	99	2.798	1	7.0
+bowers	99	2.798	1	7.0
+chaser	99	2.798	1	7.0
+chimes	99	2.798	1	7.0
+colony	99	2.798	1	7.0
+comics	99	2.798	1	7.0
+doubts	99	2.798	1	7.0
+forced	99	2.798	1	8.0
+graves	99	2.798	1	8.0
+lights	99	2.798	1	7.0
+meters	99	2.798	1	7.0
+ranked	99	2.798	1	7.0
+trends	99	2.798	1	8.0
+values	99	2.798	1	7.0
+accent	100	2.8	none
+adroit	100	2.8	none
+almond	100	2.8	none
+animus	100	2.8	none
+anomie	100	2.8	none
+arenas	100	2.8	none
+aright	100	2.8	none
+averts	100	2.8	none
+basing	100	2.8	none
+belter	100	2.8	none
+bishop	100	2.8	none
+blazes	100	2.8	none
+brawls	100	2.8	none
+bridge	100	2.8	none
+bright	100	2.8	none
+cairns	100	2.8	none
+cancel	100	2.8	none
+change	100	2.8	none
+domain	100	2.8	none
+gamers	100	2.8	none
+guards	100	2.8	none
+humans	100	2.8	none
+lounge	100	2.8	none
+lumber	100	2.8	none
+moment	100	2.8	none
+months	100	2.8	none
+oceans	100	2.8	none
+plants	100	2.8	none
+priced	100	2.8	none
+rented	100	2.8	none
+routes	100	2.8	none
+scores	100	2.8	none
+spinal	100	2.8	none
+travel	100	2.8	none
+usable	100	2.8	none
+chines	98	2.806	2	7.0
+taller	98	2.806	2	7.5
+aeries	99	2.808	1	8.0
+aisles	99	2.808	1	7.0
+baldly	99	2.808	1	9.0
+boyish	99	2.808	1	7.0
+brains	99	2.808	1	7.0
+breast	99	2.808	1	7.0
+broncs	99	2.808	1	8.0
+bulled	99	2.808	1	7.0
+burros	99	2.808	1	7.0
+calmer	99	2.808	1	8.0
+carats	99	2.808	1	7.0
+carrel	99	2.808	1	8.0
+making	99	2.808	1	7.0
+placed	99	2.808	1	7.0
+softer	99	2.808	1	7.0
+stayed	99	2.808	1	7.0
+vendor	99	2.808	1	7.0
+voters	99	2.808	1	7.0
+weapon	99	2.808	1	7.0
+aborts	100	2.81	none
+adepts	100	2.81	none
+allots	100	2.81	none
+amulet	100	2.81	none
+anchor	100	2.81	none
+archly	100	2.81	none
+armful	100	2.81	none
+arouse	100	2.81	none
+arrest	100	2.81	none
+bagels	100	2.81	none
+bailer	100	2.81	none
+baited	100	2.81	none
+bedlam	100	2.81	none
+bitmap	100	2.81	none
+bonked	100	2.81	none
+boyars	100	2.81	none
+buckle	100	2.81	none
+bugler	100	2.81	none
+cadres	100	2.81	none
+carter	100	2.81	none
+carves	100	2.81	none
+cetane	100	2.81	none
+chasms	100	2.81	none
+colors	100	2.81	none
+county	100	2.81	none
+finely	100	2.81	none
+genius	100	2.81	none
+glands	100	2.81	none
+holder	100	2.81	none
+housed	100	2.81	none
+images	100	2.81	none
+inform	100	2.81	none
+liable	100	2.81	none
+limits	100	2.81	none
+loosen	100	2.81	none
+myriad	100	2.81	none
+plenty	100	2.81	none
+policy	100	2.81	none
+racing	100	2.81	none
+reduce	100	2.81	none
+rounds	100	2.81	none
+salary	100	2.81	none
+shirts	100	2.81	none
+source	100	2.81	none
+spread	100	2.81	none
+tablet	100	2.81	none
+theirs	100	2.81	none
+tonnes	100	2.81	none
+toxins	100	2.81	none
+update	100	2.81	none
+volume	100	2.81	none
+walked	100	2.81	none
+native	97	2.814	3	7.667
+blamed	98	2.816	2	7.0
+bullet	98	2.816	2	7.0
+legion	98	2.816	2	7.5
+baleen	99	2.818	1	9.0
+biceps	99	2.818	1	8.0
+blinis	99	2.818	1	7.0
+bodega	99	2.818	1	8.0
+bowery	99	2.818	1	7.0
+brainy	99	2.818	1	7.0
+bussed	99	2.818	1	7.0
+chords	99	2.818	1	8.0
+dreams	99	2.818	1	7.0
+driven	99	2.818	1	7.0
+friend	99	2.818	1	7.0
+shared	99	2.818	1	7.0
+silver	99	2.818	1	7.0
+teamed	99	2.818	1	7.0
+warmth	99	2.818	1	7.0
+aboard	100	2.82	none
+alkyds	100	2.82	none
+apnoea	100	2.82	none
+atrium	100	2.82	none
+bifold	100	2.82	none
+billet	100	2.82	none
+blacks	100	2.82	none
+bleeds	100	2.82	none
+blight	100	2.82	none
+bourse	100	2.82	none
+brazil	100	2.82	none
+brined	100	2.82	none
+browse	100	2.82	none
+bushel	100	2.82	none
+butler	100	2.82	none
+callus	100	2.82	none
+camber	100	2.82	none
+carrot	100	2.82	none
+champs	100	2.82	none
+cheats	100	2.82	none
+cheers	100	2.82	none
+chiasm	100	2.82	none
+clause	100	2.82	none
+cooler	100	2.82	none
+couple	100	2.82	none
+easter	100	2.82	none
+felony	100	2.82	none
+habits	100	2.82	none
+honest	100	2.82	none
+humble	100	2.82	none
+invest	100	2.82	none
+missed	100	2.82	none
+modern	100	2.82	none
+namely	100	2.82	none
+orange	100	2.82	none
+riders	100	2.82	none
+should	100	2.82	none
+simple	100	2.82	none
+string	100	2.82	none
+surely	100	2.82	none
+urgent	100	2.82	none
+waters	100	2.82	none
+writes	100	2.82	none
+adored	97	2.825	3	7.333
+stands	97	2.825	3	7.0
+brakes	98	2.827	2	7.5
+hunger	98	2.827	2	7.0
+angels	99	2.828	1	7.0
+basset	99	2.828	1	7.0
+bawled	99	2.828	1	7.0
+brandy	99	2.828	1	7.0
+chafed	99	2.828	1	9.0
+choose	99	2.828	1	7.0
+cities	99	2.828	1	7.0
+method	99	2.828	1	7.0
+ruined	99	2.828	1	7.0
+swords	99	2.828	1	7.0
+adrift	100	2.83	none
+ageism	100	2.83	none
+ballet	100	2.83	none
+banked	100	2.83	none
+beluga	100	2.83	none
+bereft	100	2.83	none
+bibles	100	2.83	none
+biotic	100	2.83	none
+blazed	100	2.83	none
+bluesy	100	2.83	none
+bodily	100	2.83	none
+bougie	100	2.83	none
+burnet	100	2.83	none
+burped	100	2.83	none
+cadets	100	2.83	none
+carbos	100	2.83	none
+carers	100	2.83	none
+casein	100	2.83	none
+chrome	100	2.83	none
+clouds	100	2.83	none
+coding	100	2.83	none
+dragon	100	2.83	none
+frames	100	2.83	none
+fridge	100	2.83	none
+fusion	100	2.83	none
+grapes	100	2.83	none
+ladder	100	2.83	none
+layers	100	2.83	none
+mobile	100	2.83	none
+models	100	2.83	none
+noises	100	2.83	none
+relief	100	2.83	none
+resume	100	2.83	none
+rocket	100	2.83	none
+sealed	100	2.83	none
+shadow	100	2.83	none
+shower	100	2.83	none
+signed	100	2.83	none
+submit	100	2.83	none
+breach	98	2.837	2	7.5
+tenure	98	2.837	2	7.0
+airing	99	2.838	1	7.0
+anthem	99	2.838	1	7.0
+biotin	99	2.838	1	7.0
+blanch	99	2.838	1	7.0
+format	99	2.838	1	7.0
+hosted	99	2.838	1	9.0
+intact	99	2.838	1	7.0
+juices	99	2.838	1	7.0
+latter	99	2.838	1	7.0
+marvel	99	2.838	1	7.0
+pricey	99	2.838	1	8.0
+robots	99	2.838	1	7.0
+strive	99	2.838	1	9.0
+torque	99	2.838	1	8.0
+admire	100	2.84	none
+afield	100	2.84	none
+ballot	100	2.84	none
+banded	100	2.84	none
+batter	100	2.84	none
+belles	100	2.84	none
+belong	100	2.84	none
+billed	100	2.84	none
+binges	100	2.84	none
+bisect	100	2.84	none
+blokes	100	2.84	none
+bolder	100	2.84	none
+booted	100	2.84	none
+bushed	100	2.84	none
+canons	100	2.84	none
+carney	100	2.84	none
+cerium	100	2.84	none
+cesium	100	2.84	none
+chases	100	2.84	none
+clever	100	2.84	none
+coming	100	2.84	none
+cursor	100	2.84	none
+fights	100	2.84	none
+forces	100	2.84	none
+gently	100	2.84	none
+gotten	100	2.84	none
+modify	100	2.84	none
+nation	100	2.84	none
+peanut	100	2.84	none
+plaque	100	2.84	none
+podium	100	2.84	none
+scales	100	2.84	none
+seller	100	2.84	none
+signal	100	2.84	none
+slaves	100	2.84	none
+spices	100	2.84	none
+struck	100	2.84	none
+topics	100	2.84	none
+triple	100	2.84	none
+troops	100	2.84	none
+vanity	100	2.84	none
+waited	100	2.84	none
+walnut	100	2.84	none
+washed	100	2.84	none
+whilst	100	2.84	none
+wounds	100	2.84	none
+yogurt	100	2.84	none
+bready	98	2.847	2	7.5
+balked	99	2.848	1	9.0
+beanie	99	2.848	1	7.0
+bidden	99	2.848	1	8.0
+bouncy	99	2.848	1	8.0
+bravos	99	2.848	1	7.0
+busier	99	2.848	1	7.0
+buying	99	2.848	1	7.0
+cashew	99	2.848	1	8.0
+cereal	99	2.848	1	7.0
+doctor	99	2.848	1	7.0
+drinks	99	2.848	1	7.0
+finest	99	2.848	1	7.0
+hassle	99	2.848	1	7.0
+induce	99	2.848	1	7.0
+pirate	99	2.848	1	7.0
+sister	99	2.848	1	7.0
+slowed	99	2.848	1	7.0
+survey	99	2.848	1	7.0
+abhors	100	2.85	none
+alkane	100	2.85	none
+ampere	100	2.85	none
+arises	100	2.85	none
+astute	100	2.85	none
+auburn	100	2.85	none
+barker	100	2.85	none
+bathos	100	2.85	none
+bigger	100	2.85	none
+blinks	100	2.85	none
+bluing	100	2.85	none
+bounds	100	2.85	none
+brazed	100	2.85	none
+capful	100	2.85	none
+cattle	100	2.85	none
+chants	100	2.85	none
+depths	100	2.85	none
+dosage	100	2.85	none
+faults	100	2.85	none
+forest	100	2.85	none
+gender	100	2.85	none
+grades	100	2.85	none
+insect	100	2.85	none
+longer	100	2.85	none
+parish	100	2.85	none
+relies	100	2.85	none
+saddle	100	2.85	none
+safety	100	2.85	none
+saving	100	2.85	none
+scroll	100	2.85	none
+seated	100	2.85	none
+sucked	100	2.85	none
+suites	100	2.85	none
+trader	100	2.85	none
+tucked	100	2.85	none
+verbal	100	2.85	none
+absurd	99	2.859	1	10.0
+advent	99	2.859	1	8.0
+allied	99	2.859	1	7.0
+ankles	99	2.859	1	7.0
+auxins	99	2.859	1	7.0
+basque	99	2.859	1	7.0
+bowled	99	2.859	1	7.0
+broken	99	2.859	1	7.0
+enough	99	2.859	1	7.0
+opener	99	2.859	1	7.0
+potent	99	2.859	1	7.0
+showed	99	2.859	1	7.0
+sturdy	99	2.859	1	7.0
+talent	99	2.859	1	7.0
+treats	99	2.859	1	7.0
+abates	100	2.86	none
+acorns	100	2.86	none
+admits	100	2.86	none
+advise	100	2.86	none
+aerial	100	2.86	none
+agates	100	2.86	none
+agrees	100	2.86	none
+ambers	100	2.86	none
+apneic	100	2.86	none
+artery	100	2.86	none
+astral	100	2.86	none
+asylum	100	2.86	none
+bailed	100	2.86	none
+barbed	100	2.86	none
+basher	100	2.86	none
+beaver	100	2.86	none
+belief	100	2.86	none
+belted	100	2.86	none
+bikers	100	2.86	none
+blends	100	2.86	none
+blimps	100	2.86	none
+bonded	100	2.86	none
+bonnet	100	2.86	none
+busing	100	2.86	none
+cabals	100	2.86	none
+campus	100	2.86	none
+carded	100	2.86	none
+catnap	100	2.86	none
+center	100	2.86	none
+citrus	100	2.86	none
+copied	100	2.86	none
+ethnic	100	2.86	none
+extras	100	2.86	none
+father	100	2.86	none
+fluids	100	2.86	none
+formal	100	2.86	none
+hardly	100	2.86	none
+herbal	100	2.86	none
+leader	100	2.86	none
+mainly	100	2.86	none
+makers	100	2.86	none
+openly	100	2.86	none
+patent	100	2.86	none
+quotes	100	2.86	none
+roller	100	2.86	none
+season	100	2.86	none
+shaped	100	2.86	none
+shrink	100	2.86	none
+single	100	2.86	none
+solved	100	2.86	none
+stains	100	2.86	none
+statue	100	2.86	none
+stores	100	2.86	none
+straps	100	2.86	none
+taking	100	2.86	none
+threat	100	2.86	none
+utmost	100	2.86	none
+wealth	100	2.86	none
+widget	100	2.86	none
+beachy	98	2.867	2	7.5
+adopts	99	2.869	1	7.0
+attire	99	2.869	1	7.0
+batten	99	2.869	1	7.0
+bunted	99	2.869	1	8.0
+capsid	99	2.869	1	8.0
+dozens	99	2.869	1	8.0
+ablate	100	2.87	none
+adding	100	2.87	none
+ambled	100	2.87	none
+answer	100	2.87	none
+anvils	100	2.87	none
+aspire	100	2.87	none
+bandit	100	2.87	none
+barked	100	2.87	none
+barred	100	2.87	none
+basins	100	2.87	none
+basses	100	2.87	none
+besets	100	2.87	none
+bested	100	2.87	none
+birdie	100	2.87	none
+blouse	100	2.87	none
+blowed	100	2.87	none
+blower	100	2.87	none
+boxers	100	2.87	none
+brawny	100	2.87	none
+bricks	100	2.87	none
+brutal	100	2.87	none
+bunker	100	2.87	none
+cenote	100	2.87	none
+centre	100	2.87	none
+custom	100	2.87	none
+drying	100	2.87	none
+ethics	100	2.87	none
+farmer	100	2.87	none
+female	100	2.87	none
+genres	100	2.87	none
+ideals	100	2.87	none
+intake	100	2.87	none
+lifted	100	2.87	none
+magnet	100	2.87	none
+matrix	100	2.87	none
+mighty	100	2.87	none
+pilots	100	2.87	none
+pushes	100	2.87	none
+remain	100	2.87	none
+strong	100	2.87	none
+tigers	100	2.87	none
+timely	100	2.87	none
+trucks	100	2.87	none
+unsafe	100	2.87	none
+called	98	2.878	2	7.5
+enroll	98	2.878	2	7.0
+soccer	98	2.878	2	7.5
+adapts	99	2.879	1	7.0
+badger	99	2.879	1	7.0
+barren	99	2.879	1	9.0
+bedpan	99	2.879	1	7.0
+bender	99	2.879	1	8.0
+bitchy	99	2.879	1	9.0
+blazer	99	2.879	1	7.0
+censer	99	2.879	1	8.0
+decent	99	2.879	1	9.0
+detail	99	2.879	1	7.0
+flyers	99	2.879	1	7.0
+guides	99	2.879	1	7.0
+litter	99	2.879	1	8.0
+proves	99	2.879	1	7.0
+toilet	99	2.879	1	7.0
+abduct	100	2.88	none
+aching	100	2.88	none
+adorns	100	2.88	none
+anklet	100	2.88	none
+arbour	100	2.88	none
+around	100	2.88	none
+atopic	100	2.88	none
+attend	100	2.88	none
+augers	100	2.88	none
+avians	100	2.88	none
+awaits	100	2.88	none
+badges	100	2.88	none
+balsam	100	2.88	none
+banner	100	2.88	none
+barbel	100	2.88	none
+borage	100	2.88	none
+bowman	100	2.88	none
+breaks	100	2.88	none
+bugles	100	2.88	none
+buried	100	2.88	none
+butane	100	2.88	none
+byline	100	2.88	none
+caliph	100	2.88	none
+cannas	100	2.88	none
+cashed	100	2.88	none
+causes	100	2.88	none
+cement	100	2.88	none
+chiles	100	2.88	none
+combat	100	2.88	none
+dinner	100	2.88	none
+escape	100	2.88	none
+golden	100	2.88	none
+marked	100	2.88	none
+motors	100	2.88	none
+pantry	100	2.88	none
+pillar	100	2.88	none
+poison	100	2.88	none
+rabbit	100	2.88	none
+radius	100	2.88	none
+reason	100	2.88	none
+recall	100	2.88	none
+recent	100	2.88	none
+roster	100	2.88	none
+seeing	100	2.88	none
+shines	100	2.88	none
+stamps	100	2.88	none
+things	100	2.88	none
+throat	100	2.88	none
+towers	100	2.88	none
+tubing	100	2.88	none
+voices	100	2.88	none
+whales	100	2.88	none
+broker	97	2.887	3	7.667
+bugged	98	2.888	2	8.5
+chided	98	2.888	2	7.0
+curved	98	2.888	2	8.0
+organs	98	2.888	2	7.0
+accuse	99	2.889	1	7.0
+barfed	99	2.889	1	7.0
+bisons	99	2.889	1	7.0
+bonito	99	2.889	1	8.0
+bopper	99	2.889	1	7.0
+burley	99	2.889	1	7.0
+bygone	99	2.889	1	7.0
+copper	99	2.889	1	7.0
+formed	99	2.889	1	7.0
+kindle	99	2.889	1	7.0
+melody	99	2.889	1	8.0
+remind	99	2.889	1	7.0
+router	99	2.889	1	7.0
+splash	99	2.889	1	7.0
+static	99	2.889	1	7.0
+studio	99	2.889	1	8.0
+tastes	99	2.889	1	8.0
+tissue	99	2.889	1	7.0
+vector	99	2.889	1	7.0
+adders	100	2.89	none
+adhere	100	2.89	none
+ambush	100	2.89	none
+anemia	100	2.89	none
+append	100	2.89	none
+arming	100	2.89	none
+atomic	100	2.89	none
+attain	100	2.89	none
+begins	100	2.89	none
+betray	100	2.89	none
+billow	100	2.89	none
+blocks	100	2.89	none
+bodied	100	2.89	none
+boldly	100	2.89	none
+boosts	100	2.89	none
+broths	100	2.89	none
+brushy	100	2.89	none
+busily	100	2.89	none
+caddis	100	2.89	none
+caller	100	2.89	none
+causal	100	2.89	none
+cerise	100	2.89	none
+chador	100	2.89	none
+chains	100	2.89	none
+chills	100	2.89	none
+crying	100	2.89	none
+defeat	100	2.89	none
+eating	100	2.89	none
+facing	100	2.89	none
+import	100	2.89	none
+itself	100	2.89	none
+legacy	100	2.89	none
+novice	100	2.89	none
+number	100	2.89	none
+ounces	100	2.89	none
+pedals	100	2.89	none
+poetry	100	2.89	none
+posted	100	2.89	none
+pretty	100	2.89	none
+return	100	2.89	none
+rising	100	2.89	none
+romans	100	2.89	none
+rotate	100	2.89	none
+rushed	100	2.89	none
+sender	100	2.89	none
+shifts	100	2.89	none
+strips	100	2.89	none
+target	100	2.89	none
+thanks	100	2.89	none
+towels	100	2.89	none
+tuning	100	2.89	none
+writer	100	2.89	none
+babied	98	2.898	2	7.5
+banned	98	2.898	2	8.0
+behind	98	2.898	2	7.0
+cervix	98	2.898	2	7.0
+denial	98	2.898	2	7.0
+ageing	99	2.899	1	7.0
+bemuse	99	2.899	1	7.0
+cardia	99	2.899	1	7.0
+cellar	99	2.899	1	9.0
+dollar	99	2.899	1	7.0
+folder	99	2.899	1	7.0
+hybrid	99	2.899	1	8.0
+papers	99	2.899	1	8.0
+slices	99	2.899	1	7.0
+stated	99	2.899	1	7.0
+actual	100	2.9	none
+aflame	100	2.9	none
+amoral	100	2.9	none
+apices	100	2.9	none
+asides	100	2.9	none
+baller	100	2.9	none
+basest	100	2.9	none
+basked	100	2.9	none
+bodkin	100	2.9	none
+bother	100	2.9	none
+botnet	100	2.9	none
+bowing	100	2.9	none
+brings	100	2.9	none
+bumper	100	2.9	none
+canary	100	2.9	none
+cancer	100	2.9	none
+chaise	100	2.9	none
+chalks	100	2.9	none
+chimps	100	2.9	none
+danish	100	2.9	none
+deploy	100	2.9	none
+facial	100	2.9	none
+flight	100	2.9	none
+gravel	100	2.9	none
+harbor	100	2.9	none
+header	100	2.9	none
+helmet	100	2.9	none
+herein	100	2.9	none
+hunter	100	2.9	none
+ignore	100	2.9	none
+layout	100	2.9	none
+lethal	100	2.9	none
+lowest	100	2.9	none
+lyrics	100	2.9	none
+nights	100	2.9	none
+packed	100	2.9	none
+pocket	100	2.9	none
+poster	100	2.9	none
+proved	100	2.9	none
+pushed	100	2.9	none
+rather	100	2.9	none
+sensor	100	2.9	none
+shrimp	100	2.9	none
+summer	100	2.9	none
+titled	100	2.9	none
+trauma	100	2.9	none
+trendy	100	2.9	none
+abroad	99	2.909	1	7.0
+afresh	99	2.909	1	7.0
+bagmen	99	2.909	1	7.0
+bantam	99	2.909	1	7.0
+carder	99	2.909	1	8.0
+joints	99	2.909	1	7.0
+lovers	99	2.909	1	7.0
+miners	99	2.909	1	8.0
+unable	99	2.909	1	7.0
+abound	100	2.91	none
+abrade	100	2.91	none
+alight	100	2.91	none
+angers	100	2.91	none
+anuses	100	2.91	none
+apical	100	2.91	none
+applet	100	2.91	none
+arabic	100	2.91	none
+baddie	100	2.91	none
+binged	100	2.91	none
+bionic	100	2.91	none
+birder	100	2.91	none
+blonde	100	2.91	none
+boding	100	2.91	none
+bomber	100	2.91	none
+botany	100	2.91	none
+bridle	100	2.91	none
+cactus	100	2.91	none
+caress	100	2.91	none
+castes	100	2.91	none
+celebs	100	2.91	none
+cracks	100	2.91	none
+fairly	100	2.91	none
+hatred	100	2.91	none
+impose	100	2.91	none
+kernel	100	2.91	none
+landed	100	2.91	none
+locals	100	2.91	none
+manner	100	2.91	none
+nearby	100	2.91	none
+rustic	100	2.91	none
+sketch	100	2.91	none
+sodium	100	2.91	none
+stakes	100	2.91	none
+stereo	100	2.91	none
+subway	100	2.91	none
+syntax	100	2.91	none
+tasted	100	2.91	none
+wanted	100	2.91	none
+winner	100	2.91	none
+yields	100	2.91	none
+abased	98	2.918	2	7.5
+arrant	98	2.918	2	7.0
+cavern	98	2.918	2	7.5
+paying	98	2.918	2	7.0
+wonder	98	2.918	2	7.0
+abided	99	2.919	1	7.0
+bashes	99	2.919	1	7.0
+burner	99	2.919	1	8.0
+foster	99	2.919	1	7.0
+hugely	99	2.919	1	7.0
+lawyer	99	2.919	1	7.0
+monkey	99	2.919	1	7.0
+passed	99	2.919	1	10.0
+proven	99	2.919	1	7.0
+rooted	99	2.919	1	7.0
+tackle	99	2.919	1	8.0
+vacant	99	2.919	1	7.0
+accost	100	2.92	none
+addict	100	2.92	none
+afraid	100	2.92	none
+agouti	100	2.92	none
+airman	100	2.92	none
+alcove	100	2.92	none
+arcane	100	2.92	none
+arctic	100	2.92	none
+argues	100	2.92	none
+assent	100	2.92	none
+audios	100	2.92	none
+batted	100	2.92	none
+beyond	100	2.92	none
+blasts	100	2.92	none
+boasts	100	2.92	none
+brassy	100	2.92	none
+briefs	100	2.92	none
+bummer	100	2.92	none
+bunion	100	2.92	none
+cabbie	100	2.92	none
+chalky	100	2.92	none
+cherub	100	2.92	none
+chests	100	2.92	none
+cliffs	100	2.92	none
+comedy	100	2.92	none
+convey	100	2.92	none
+creamy	100	2.92	none
+family	100	2.92	none
+fringe	100	2.92	none
+honors	100	2.92	none
+hungry	100	2.92	none
+locker	100	2.92	none
+majors	100	2.92	none
+opened	100	2.92	none
+outlet	100	2.92	none
+picked	100	2.92	none
+powder	100	2.92	none
+regime	100	2.92	none
+rotary	100	2.92	none
+served	100	2.92	none
+steady	100	2.92	none
+summit	100	2.92	none
+tennis	100	2.92	none
+though	100	2.92	none
+typing	100	2.92	none
+flawed	97	2.928	3	7.0
+aiming	98	2.929	2	8.0
+ampler	99	2.929	1	7.0
+auteur	99	2.929	1	7.0
+brewed	99	2.929	1	8.0
+bucked	99	2.929	1	7.0
+chunks	99	2.929	1	8.0
+collar	99	2.929	1	8.0
+drawer	99	2.929	1	7.0
+expand	99	2.929	1	7.0
+fiscal	99	2.929	1	7.0
+humane	99	2.929	1	7.0
+lacked	99	2.929	1	7.0
+resort	99	2.929	1	7.0
+shores	99	2.929	1	7.0
+soviet	99	2.929	1	8.0
+sunset	99	2.929	1	7.0
+unions	99	2.929	1	7.0
+abuses	100	2.93	none
+adduct	100	2.93	none
+amount	100	2.93	none
+ardour	100	2.93	none
+argyle	100	2.93	none
+bakery	100	2.93	none
+beiges	100	2.93	none
+beside	100	2.93	none
+bettor	100	2.93	none
+bloody	100	2.93	none
+blousy	100	2.93	none
+bongos	100	2.93	none
+bookie	100	2.93	none
+borers	100	2.93	none
+bossed	100	2.93	none
+braves	100	2.93	none
+brayed	100	2.93	none
+briers	100	2.93	none
+bronzy	100	2.93	none
+brooch	100	2.93	none
+burqas	100	2.93	none
+camper	100	2.93	none
+canner	100	2.93	none
+charge	100	2.93	none
+charms	100	2.93	none
+chiefs	100	2.93	none
+circle	100	2.93	none
+easily	100	2.93	none
+failed	100	2.93	none
+fields	100	2.93	none
+filmed	100	2.93	none
+floors	100	2.93	none
+health	100	2.93	none
+heater	100	2.93	none
+hereby	100	2.93	none
+phones	100	2.93	none
+pledge	100	2.93	none
+profit	100	2.93	none
+region	100	2.93	none
+select	100	2.93	none
+senate	100	2.93	none
+slight	100	2.93	none
+strict	100	2.93	none
+strike	100	2.93	none
+suffer	100	2.93	none
+switch	100	2.93	none
+thrive	100	2.93	none
+trying	100	2.93	none
+turkey	100	2.93	none
+vastly	100	2.93	none
+wallet	100	2.93	none
+acinar	98	2.939	2	7.0
+accord	99	2.939	1	9.0
+arable	99	2.939	1	8.0
+attune	99	2.939	1	7.0
+backed	99	2.939	1	7.0
+belfry	99	2.939	1	7.0
+bilges	99	2.939	1	8.0
+caking	99	2.939	1	7.0
+ceases	99	2.939	1	7.0
+murder	99	2.939	1	8.0
+regard	99	2.939	1	8.0
+temple	99	2.939	1	7.0
+tender	99	2.939	1	7.0
+upward	99	2.939	1	8.0
+adipic	100	2.94	none
+amazon	100	2.94	none
+angora	100	2.94	none
+badman	100	2.94	none
+barman	100	2.94	none
+basics	100	2.94	none
+blooms	100	2.94	none
+bluish	100	2.94	none
+bronco	100	2.94	none
+budget	100	2.94	none
+bureau	100	2.94	none
+canine	100	2.94	none
+chilly	100	2.94	none
+design	100	2.94	none
+detect	100	2.94	none
+easier	100	2.94	none
+firmly	100	2.94	none
+gentle	100	2.94	none
+guided	100	2.94	none
+healed	100	2.94	none
+injury	100	2.94	none
+looked	100	2.94	none
+noting	100	2.94	none
+object	100	2.94	none
+offset	100	2.94	none
+packet	100	2.94	none
+refund	100	2.94	none
+remote	100	2.94	none
+safely	100	2.94	none
+saints	100	2.94	none
+slopes	100	2.94	none
+slower	100	2.94	none
+sports	100	2.94	none
+themes	100	2.94	none
+titles	100	2.94	none
+varies	100	2.94	none
+worthy	100	2.94	none
+waiver	97	2.948	3	7.333
+airbag	99	2.949	1	8.0
+archer	99	2.949	1	7.0
+assert	99	2.949	1	8.0
+ballsy	99	2.949	1	8.0
+barter	99	2.949	1	8.0
+bedbug	99	2.949	1	7.0
+behalf	99	2.949	1	7.0
+bemoan	99	2.949	1	7.0
+bolero	99	2.949	1	7.0
+busker	99	2.949	1	7.0
+locked	99	2.949	1	7.0
+refuse	99	2.949	1	7.0
+rugged	99	2.949	1	7.0
+simply	99	2.949	1	7.0
+thinks	99	2.949	1	7.0
+abrupt	100	2.95	none
+aiding	100	2.95	none
+alarms	100	2.95	none
+aliyah	100	2.95	none
+aplomb	100	2.95	none
+arcade	100	2.95	none
+atolls	100	2.95	none
+august	100	2.95	none
+averse	100	2.95	none
+barium	100	2.95	none
+baryon	100	2.95	none
+beaker	100	2.95	none
+biding	100	2.95	none
+bracer	100	2.95	none
+bronze	100	2.95	none
+caging	100	2.95	none
+carpal	100	2.95	none
+chosen	100	2.95	none
+classy	100	2.95	none
+cohort	100	2.95	none
+debate	100	2.95	none
+favour	100	2.95	none
+global	100	2.95	none
+insane	100	2.95	none
+liquor	100	2.95	none
+makeup	100	2.95	none
+mounts	100	2.95	none
+occurs	100	2.95	none
+office	100	2.95	none
+option	100	2.95	none
+origin	100	2.95	none
+palace	100	2.95	none
+patron	100	2.95	none
+player	100	2.95	none
+poured	100	2.95	none
+python	100	2.95	none
+rebels	100	2.95	none
+record	100	2.95	none
+reward	100	2.95	none
+screen	100	2.95	none
+shorts	100	2.95	none
+smooth	100	2.95	none
+spouse	100	2.95	none
+symbol	100	2.95	none
+trusts	100	2.95	none
+tunnel	100	2.95	none
+valves	100	2.95	none
+whites	100	2.95	none
+worked	100	2.95	none
+absorb	98	2.959	2	7.0
+french	98	2.959	2	7.5
+assail	99	2.96	1	7.0
+bastes	99	2.96	1	7.0
+bewail	99	2.96	1	8.0
+buccal	99	2.96	1	7.0
+cheery	99	2.96	1	7.0
+chevre	99	2.96	1	7.0
+cycles	99	2.96	1	7.0
+manual	99	2.96	1	9.0
+remedy	99	2.96	1	7.0
+traded	99	2.96	1	7.0
+wolves	99	2.96	1	7.0
+airily	100	2.96	none
+allows	100	2.96	none
+amuses	100	2.96	none
+angler	100	2.96	none
+beheld	100	2.96	none
+bimbos	100	2.96	none
+bobcat	100	2.96	none
+broods	100	2.96	none
+bunked	100	2.96	none
+bursar	100	2.96	none
+camera	100	2.96	none
+carina	100	2.96	none
+chance	100	2.96	none
+cheapo	100	2.96	none
+commit	100	2.96	none
+cooked	100	2.96	none
+defect	100	2.96	none
+divine	100	2.96	none
+former	100	2.96	none
+guilty	100	2.96	none
+higher	100	2.96	none
+income	100	2.96	none
+leaves	100	2.96	none
+module	100	2.96	none
+obtain	100	2.96	none
+polish	100	2.96	none
+purple	100	2.96	none
+resist	100	2.96	none
+spring	100	2.96	none
+states	100	2.96	none
+sticks	100	2.96	none
+storms	100	2.96	none
+trophy	100	2.96	none
+verses	100	2.96	none
+voting	100	2.96	none
+washer	100	2.96	none
+wicked	100	2.96	none
+wished	100	2.96	none
+wizard	100	2.96	none
+bauble	98	2.969	2	7.0
+beware	98	2.969	2	7.5
+cherry	98	2.969	2	7.5
+dishes	98	2.969	2	7.0
+barque	99	2.97	1	7.0
+betake	99	2.97	1	8.0
+caveat	99	2.97	1	7.0
+endure	99	2.97	1	7.0
+faulty	99	2.97	1	7.0
+prayer	99	2.97	1	8.0
+purely	99	2.97	1	7.0
+racial	99	2.97	1	8.0
+riding	99	2.97	1	7.0
+status	99	2.97	1	7.0
+wheels	99	2.97	1	7.0
+abject	100	2.97	none
+advice	100	2.97	none
+aerate	100	2.97	none
+alphas	100	2.97	none
+amoeba	100	2.97	none
+ashore	100	2.97	none
+asking	100	2.97	none
+asleep	100	2.97	none
+astray	100	2.97	none
+avails	100	2.97	none
+bagger	100	2.97	none
+basalt	100	2.97	none
+beasts	100	2.97	none
+bigamy	100	2.97	none
+bloods	100	2.97	none
+booths	100	2.97	none
+braked	100	2.97	none
+broody	100	2.97	none
+carafe	100	2.97	none
+casque	100	2.97	none
+casual	100	2.97	none
+caudal	100	2.97	none
+caving	100	2.97	none
+chatty	100	2.97	none
+circus	100	2.97	none
+citing	100	2.97	none
+crowds	100	2.97	none
+digits	100	2.97	none
+fierce	100	2.97	none
+frozen	100	2.97	none
+funnel	100	2.97	none
+hourly	100	2.97	none
+killed	100	2.97	none
+legend	100	2.97	none
+lesson	100	2.97	none
+margin	100	2.97	none
+motion	100	2.97	none
+myself	100	2.97	none
+public	100	2.97	none
+rescue	100	2.97	none
+sticky	100	2.97	none
+stress	100	2.97	none
+stupid	100	2.97	none
+styles	100	2.97	none
+unless	100	2.97	none
+adverb	98	2.98	2	8.0
+bottle	98	2.98	2	7.0
+brevet	98	2.98	2	8.0
+buttes	98	2.98	2	7.0
+cotton	98	2.98	2	7.5
+severe	98	2.98	2	7.0
+acetic	99	2.98	1	7.0
+agency	99	2.98	1	7.0
+aviary	99	2.98	1	7.0
+badged	99	2.98	1	8.0
+ballad	99	2.98	1	7.0
+beeper	99	2.98	1	9.0
+blowup	99	2.98	1	7.0
+burger	99	2.98	1	9.0
+button	99	2.98	1	7.0
+cayman	99	2.98	1	7.0
+entity	99	2.98	1	7.0
+honour	99	2.98	1	7.0
+quoted	99	2.98	1	7.0
+stacks	99	2.98	1	7.0
+afloat	100	2.98	none
+alloys	100	2.98	none
+arnica	100	2.98	none
+aureus	100	2.98	none
+awoken	100	2.98	none
+bellow	100	2.98	none
+bhakti	100	2.98	none
+blazon	100	2.98	none
+bootie	100	2.98	none
+bopped	100	2.98	none
+brooks	100	2.98	none
+buyers	100	2.98	none
+byword	100	2.98	none
+canvas	100	2.98	none
+cassia	100	2.98	none
+celiac	100	2.98	none
+cutter	100	2.98	none
+dealer	100	2.98	none
+desert	100	2.98	none
+filled	100	2.98	none
+fought	100	2.98	none
+hammer	100	2.98	none
+larger	100	2.98	none
+movies	100	2.98	none
+nausea	100	2.98	none
+nickel	100	2.98	none
+punish	100	2.98	none
+rolled	100	2.98	none
+slides	100	2.98	none
+sphere	100	2.98	none
+square	100	2.98	none
+tossed	100	2.98	none
+truths	100	2.98	none
+warmer	100	2.98	none
+weight	100	2.98	none
+widely	100	2.98	none
+lesser	98	2.99	2	7.0
+poorly	98	2.99	2	7.0
+richer	98	2.99	2	7.5
+beckon	99	2.99	1	8.0
+before	99	2.99	1	7.0
+bobber	99	2.99	1	8.0
+bribed	99	2.99	1	7.0
+canoes	99	2.99	1	7.0
+feared	99	2.99	1	8.0
+flying	99	2.99	1	7.0
+handed	99	2.99	1	7.0
+scenic	99	2.99	1	8.0
+secure	99	2.99	1	7.0
+series	99	2.99	1	7.0
+topped	99	2.99	1	7.0
+abbots	100	2.99	none
+allies	100	2.99	none
+apiary	100	2.99	none
+axioms	100	2.99	none
+bateau	100	2.99	none
+biting	100	2.99	none
+boxier	100	2.99	none
+breeds	100	2.99	none
+broach	100	2.99	none
+browns	100	2.99	none
+budgie	100	2.99	none
+callow	100	2.99	none
+chewed	100	2.99	none
+corner	100	2.99	none
+earned	100	2.99	none
+fossil	100	2.99	none
+geared	100	2.99	none
+harder	100	2.99	none
+likely	100	2.99	none
+little	100	2.99	none
+oxygen	100	2.99	none
+repeat	100	2.99	none
+simmer	100	2.99	none
+ticket	100	2.99	none
+zombie	100	2.99	none
+assign	98	3.0	2	7.5
+blithe	98	3.0	2	7.0
+bought	98	3.0	2	7.0
+cheque	98	3.0	2	8.5
+letter	98	3.0	2	7.0
+axonal	99	3.0	1	7.0
+beaked	99	3.0	1	7.0
+bogged	99	3.0	1	8.0
+bumped	99	3.0	1	8.0
+chides	99	3.0	1	7.0
+eighth	99	3.0	1	7.0
+issued	99	3.0	1	7.0
+melted	99	3.0	1	7.0
+superb	99	3.0	1	8.0
+waking	99	3.0	1	7.0
+abbeys	100	3.0	none
+aghast	100	3.0	none
+allays	100	3.0	none
+apache	100	3.0	none
+arrive	100	3.0	none
+babies	100	3.0	none
+beagle	100	3.0	none
+begets	100	3.0	none
+bombed	100	3.0	none
+booker	100	3.0	none
+bribes	100	3.0	none
+buyout	100	3.0	none
+caecum	100	3.0	none
+canola	100	3.0	none
+canyon	100	3.0	none
+floral	100	3.0	none
+flower	100	3.0	none
+fourth	100	3.0	none
+govern	100	3.0	none
+happen	100	3.0	none
+helped	100	3.0	none
+hidden	100	3.0	none
+judges	100	3.0	none
+loaded	100	3.0	none
+middle	100	3.0	none
+nerves	100	3.0	none
+phases	100	3.0	none
+powers	100	3.0	none
+pulled	100	3.0	none
+raises	100	3.0	none
+really	100	3.0	none
+regain	100	3.0	none
+render	100	3.0	none
+sequel	100	3.0	none
+supply	100	3.0	none
+tended	100	3.0	none
+throws	100	3.0	none
+unpaid	100	3.0	none
+valley	100	3.0	none
+accrue	98	3.01	2	7.5
+nurses	98	3.01	2	7.5
+abjure	99	3.01	1	7.0
+adjoin	99	3.01	1	7.0
+brewer	99	3.01	1	7.0
+capped	99	3.01	1	8.0
+differ	99	3.01	1	9.0
+gifted	99	3.01	1	8.0
+horses	99	3.01	1	7.0
+metres	99	3.01	1	7.0
+outfit	99	3.01	1	7.0
+owners	99	3.01	1	7.0
+sexual	99	3.01	1	7.0
+tricky	99	3.01	1	7.0
+within	99	3.01	1	7.0
+acidic	100	3.01	none
+agreed	100	3.01	none
+arroyo	100	3.01	none
+assets	100	3.01	none
+baggie	100	3.01	none
+blurry	100	3.01	none
+bobbin	100	3.01	none
+booger	100	3.01	none
+boxing	100	3.01	none
+candid	100	3.01	none
+careen	100	3.01	none
+celled	100	3.01	none
+famous	100	3.01	none
+fender	100	3.01	none
+finger	100	3.01	none
+ginger	100	3.01	none
+grease	100	3.01	none
+joined	100	3.01	none
+people	100	3.01	none
+prizes	100	3.01	none
+rarely	100	3.01	none
+repair	100	3.01	none
+scheme	100	3.01	none
+skinny	100	3.01	none
+tagged	100	3.01	none
+unlike	100	3.01	none
+vacuum	100	3.01	none
+venues	100	3.01	none
+wishes	100	3.01	none
+adduce	98	3.02	2	8.5
+verify	98	3.02	2	7.0
+alibis	99	3.02	1	7.0
+annuls	99	3.02	1	8.0
+awning	99	3.02	1	7.0
+butted	99	3.02	1	9.0
+lately	99	3.02	1	7.0
+lively	99	3.02	1	7.0
+living	99	3.02	1	8.0
+merger	99	3.02	1	9.0
+refers	99	3.02	1	7.0
+reside	99	3.02	1	8.0
+ribbon	99	3.02	1	7.0
+runway	99	3.02	1	7.0
+unused	99	3.02	1	9.0
+upside	99	3.02	1	7.0
+worker	99	3.02	1	7.0
+adjust	100	3.02	none
+agaves	100	3.02	none
+anyhow	100	3.02	none
+apples	100	3.02	none
+assume	100	3.02	none
+asthma	100	3.02	none
+autumn	100	3.02	none
+billon	100	3.02	none
+bowmen	100	3.02	none
+brayer	100	3.02	none
+briars	100	3.02	none
+burgle	100	3.02	none
+clutch	100	3.02	none
+cosmic	100	3.02	none
+denied	100	3.02	none
+equals	100	3.02	none
+finish	100	3.02	none
+funded	100	3.02	none
+guests	100	3.02	none
+hoping	100	3.02	none
+junior	100	3.02	none
+league	100	3.02	none
+lenses	100	3.02	none
+offers	100	3.02	none
+online	100	3.02	none
+ranger	100	3.02	none
+rookie	100	3.02	none
+stocks	100	3.02	none
+thesis	100	3.02	none
+thrown	100	3.02	none
+turtle	100	3.02	none
+tweets	100	3.02	none
+twenty	100	3.02	none
+voyage	100	3.02	none
+weighs	100	3.02	none
+caviar	97	3.021	3	7.0
+aspens	99	3.03	1	8.0
+avatar	99	3.03	1	7.0
+befall	99	3.03	1	7.0
+freely	99	3.03	1	7.0
+remove	99	3.03	1	7.0
+snacks	99	3.03	1	7.0
+across	100	3.03	none
+adages	100	3.03	none
+allude	100	3.03	none
+annals	100	3.03	none
+apiece	100	3.03	none
+apogee	100	3.03	none
+avowed	100	3.03	none
+awards	100	3.03	none
+betide	100	3.03	none
+bursts	100	3.03	none
+cachet	100	3.03	none
+caught	100	3.03	none
+define	100	3.03	none
+demand	100	3.03	none
+figure	100	3.03	none
+knight	100	3.03	none
+played	100	3.03	none
+police	100	3.03	none
+stages	100	3.03	none
+sudden	100	3.03	none
+timing	100	3.03	none
+violin	100	3.03	none
+elders	98	3.031	2	7.0
+badass	99	3.04	1	9.0
+braver	99	3.04	1	7.0
+choice	99	3.04	1	7.0
+errors	99	3.04	1	7.0
+excuse	99	3.04	1	8.0
+ghosts	99	3.04	1	8.0
+jungle	99	3.04	1	8.0
+lender	99	3.04	1	7.0
+manage	99	3.04	1	7.0
+runner	99	3.04	1	7.0
+alumna	100	3.04	none
+arrays	100	3.04	none
+baffle	100	3.04	none
+become	100	3.04	none
+bedeck	100	3.04	none
+bikini	100	3.04	none
+border	100	3.04	none
+buoyed	100	3.04	none
+burble	100	3.04	none
+busboy	100	3.04	none
+byways	100	3.04	none
+donors	100	3.04	none
+flavor	100	3.04	none
+garage	100	3.04	none
+having	100	3.04	none
+misery	100	3.04	none
+pixels	100	3.04	none
+please	100	3.04	none
+popped	100	3.04	none
+screws	100	3.04	none
+settle	100	3.04	none
+stitch	100	3.04	none
+tomato	100	3.04	none
+inside	98	3.041	2	7.5
+lonely	98	3.041	2	7.5
+annual	100	3.05	none
+arbors	100	3.05	none
+areola	100	3.05	none
+arguer	100	3.05	none
+became	100	3.05	none
+boggle	100	3.05	none
+boomed	100	3.05	none
+boughs	100	3.05	none
+bushes	100	3.05	none
+calmly	100	3.05	none
+deeper	100	3.05	none
+edible	100	3.05	none
+evenly	100	3.05	none
+folded	100	3.05	none
+indoor	100	3.05	none
+kindly	100	3.05	none
+lastly	100	3.05	none
+masses	100	3.05	none
+moving	100	3.05	none
+newest	100	3.05	none
+novels	100	3.05	none
+prompt	100	3.05	none
+seemed	100	3.05	none
+shares	100	3.05	none
+skiing	100	3.05	none
+summon	100	3.05	none
+tactic	100	3.05	none
+weaker	100	3.05	none
+caddie	98	3.051	2	7.5
+degree	98	3.051	2	7.0
+equity	98	3.051	2	7.0
+logged	98	3.051	2	7.0
+airier	99	3.051	1	7.0
+bigeye	99	3.051	1	7.0
+biking	99	3.051	1	7.0
+bobble	99	3.051	1	8.0
+canned	99	3.051	1	7.0
+filing	99	3.051	1	7.0
+tenant	99	3.051	1	7.0
+victim	99	3.051	1	7.0
+window	99	3.051	1	7.0
+airway	100	3.06	none
+always	100	3.06	none
+analog	100	3.06	none
+apexes	100	3.06	none
+aromas	100	3.06	none
+avoids	100	3.06	none
+beggar	100	3.06	none
+behest	100	3.06	none
+bevels	100	3.06	none
+biopsy	100	3.06	none
+blocky	100	3.06	none
+booing	100	3.06	none
+bottom	100	3.06	none
+brahma	100	3.06	none
+bummed	100	3.06	none
+bypass	100	3.06	none
+cashes	100	3.06	none
+chicks	100	3.06	none
+colour	100	3.06	none
+energy	100	3.06	none
+expert	100	3.06	none
+height	100	3.06	none
+kidney	100	3.06	none
+knives	100	3.06	none
+laptop	100	3.06	none
+overly	100	3.06	none
+parade	100	3.06	none
+sharks	100	3.06	none
+thighs	100	3.06	none
+treaty	100	3.06	none
+unsure	100	3.06	none
+viewed	100	3.06	none
+virgin	100	3.06	none
+yearly	100	3.06	none
+awaked	98	3.061	2	7.0
+chasse	98	3.061	2	7.0
+empire	98	3.061	2	7.0
+ahimsa	99	3.061	1	7.0
+beamed	99	3.061	1	7.0
+bearer	99	3.061	1	7.0
+cheesy	99	3.061	1	7.0
+deputy	99	3.061	1	8.0
+eagles	99	3.061	1	7.0
+except	99	3.061	1	7.0
+expect	99	3.061	1	7.0
+expose	99	3.061	1	7.0
+jacket	99	3.061	1	7.0
+killer	99	3.061	1	7.0
+medium	99	3.061	1	8.0
+refine	99	3.061	1	7.0
+afford	100	3.07	none
+angina	100	3.07	none
+assure	100	3.07	none
+attach	100	3.07	none
+aurora	100	3.07	none
+bigwig	100	3.07	none
+boxcar	100	3.07	none
+breech	100	3.07	none
+cabana	100	3.07	none
+caning	100	3.07	none
+career	100	3.07	none
+clicks	100	3.07	none
+dining	100	3.07	none
+driver	100	3.07	none
+filler	100	3.07	none
+growth	100	3.07	none
+humour	100	3.07	none
+loving	100	3.07	none
+merely	100	3.07	none
+pillow	100	3.07	none
+prefer	100	3.07	none
+primer	100	3.07	none
+reader	100	3.07	none
+tested	100	3.07	none
+versus	100	3.07	none
+anyone	98	3.071	2	8.0
+beeped	98	3.071	2	8.0
+spells	98	3.071	2	7.0
+abbess	99	3.071	1	7.0
+accept	99	3.071	1	7.0
+alleys	99	3.071	1	7.0
+backup	99	3.071	1	7.0
+ending	99	3.071	1	7.0
+greens	99	3.071	1	8.0
+houses	99	3.071	1	7.0
+report	99	3.071	1	8.0
+shapes	99	3.071	1	7.0
+shells	99	3.071	1	7.0
+sugars	99	3.071	1	7.0
+vision	99	3.071	1	7.0
+adware	97	3.072	3	7.0
+ablaze	100	3.08	none
+augurs	100	3.08	none
+avenge	100	3.08	none
+banjos	100	3.08	none
+bezels	100	3.08	none
+bunkum	100	3.08	none
+calico	100	3.08	none
+coupon	100	3.08	none
+creepy	100	3.08	none
+darker	100	3.08	none
+diesel	100	3.08	none
+exempt	100	3.08	none
+export	100	3.08	none
+forgot	100	3.08	none
+hazard	100	3.08	none
+heaven	100	3.08	none
+hiring	100	3.08	none
+invite	100	3.08	none
+mutual	100	3.08	none
+orders	100	3.08	none
+safest	100	3.08	none
+speaks	100	3.08	none
+ataxia	99	3.081	1	7.0
+baking	99	3.081	1	7.0
+booked	99	3.081	1	7.0
+clinic	99	3.081	1	7.0
+glossy	99	3.081	1	7.0
+notify	99	3.081	1	7.0
+seized	99	3.081	1	7.0
+biffed	97	3.082	3	7.0
+avenue	98	3.082	2	7.5
+snakes	98	3.082	2	7.0
+abacus	100	3.09	none
+adagio	100	3.09	none
+augury	100	3.09	none
+benign	100	3.09	none
+bloggy	100	3.09	none
+boozer	100	3.09	none
+caiman	100	3.09	none
+catchy	100	3.09	none
+cinema	100	3.09	none
+cookie	100	3.09	none
+crisis	100	3.09	none
+device	100	3.09	none
+eleven	100	3.09	none
+firing	100	3.09	none
+immune	100	3.09	none
+insist	100	3.09	none
+marker	100	3.09	none
+owning	100	3.09	none
+school	100	3.09	none
+videos	100	3.09	none
+allure	99	3.091	1	7.0
+apathy	99	3.091	1	7.0
+assist	99	3.091	1	7.0
+busies	99	3.091	1	7.0
+decide	99	3.091	1	7.0
+either	99	3.091	1	7.0
+hiking	99	3.091	1	9.0
+hockey	99	3.091	1	7.0
+retire	99	3.091	1	7.0
+wiring	99	3.091	1	8.0
+accede	98	3.092	2	7.5
+anoxia	98	3.092	2	7.0
+nobody	98	3.092	2	7.5
+addend	97	3.093	3	7.333
+acumen	100	3.1	none
+addled	100	3.1	none
+affair	100	3.1	none
+aikido	100	3.1	none
+amtrak	100	3.1	none
+anoxic	100	3.1	none
+axions	100	3.1	none
+bagged	100	3.1	none
+bobbed	100	3.1	none
+bosons	100	3.1	none
+capita	100	3.1	none
+capper	100	3.1	none
+caucus	100	3.1	none
+census	100	3.1	none
+effect	100	3.1	none
+employ	100	3.1	none
+ensure	100	3.1	none
+exists	100	3.1	none
+fitted	100	3.1	none
+infant	100	3.1	none
+narrow	100	3.1	none
+potato	100	3.1	none
+quartz	100	3.1	none
+refuge	100	3.1	none
+safari	100	3.1	none
+sleeve	100	3.1	none
+wholly	100	3.1	none
+attest	99	3.101	1	7.0
+barrow	99	3.101	1	9.0
+boomer	99	3.101	1	7.0
+burrow	99	3.101	1	7.0
+needle	99	3.101	1	7.0
+review	99	3.101	1	9.0
+adzuki	100	3.11	none
+amazes	100	3.11	none
+arcana	100	3.11	none
+armada	100	3.11	none
+avowal	100	3.11	none
+awaken	100	3.11	none
+awakes	100	3.11	none
+banzai	100	3.11	none
+blenny	100	3.11	none
+bluffs	100	3.11	none
+breezy	100	3.11	none
+buzzer	100	3.11	none
+buzzes	100	3.11	none
+bylaws	100	3.11	none
+cassis	100	3.11	none
+cheeks	100	3.11	none
+mining	100	3.11	none
+proper	100	3.11	none
+reform	100	3.11	none
+server	100	3.11	none
+spikes	100	3.11	none
+system	100	3.11	none
+armory	99	3.111	1	7.0
+solely	99	3.111	1	7.0
+terror	99	3.111	1	7.0
+boobie	98	3.112	2	7.0
+carver	98	3.112	2	7.0
+deeply	98	3.112	2	7.0
+fallen	98	3.112	2	8.0
+babble	100	3.12	none
+behave	100	3.12	none
+blurbs	100	3.12	none
+bogeys	100	3.12	none
+bonbon	100	3.12	none
+chicle	100	3.12	none
+occupy	100	3.12	none
+reveal	100	3.12	none
+rhythm	100	3.12	none
+sights	100	3.12	none
+speeds	100	3.12	none
+starts	100	3.12	none
+anally	99	3.121	1	7.0
+armour	99	3.121	1	7.0
+buffed	99	3.121	1	7.0
+dubbed	99	3.121	1	7.0
+assize	98	3.122	2	7.0
+anorak	100	3.13	none
+barber	100	3.13	none
+bosoms	100	3.13	none
+checks	100	3.13	none
+delete	100	3.13	none
+edited	100	3.13	none
+effort	100	3.13	none
+google	100	3.13	none
+lovely	100	3.13	none
+passes	100	3.13	none
+reject	100	3.13	none
+shoots	100	3.13	none
+wisdom	100	3.13	none
+bagman	99	3.131	1	7.0
+brogue	99	3.131	1	7.0
+budged	99	3.131	1	7.0
+excess	99	3.131	1	7.0
+rivers	99	3.131	1	7.0
+agenda	98	3.133	2	8.5
+buzzed	98	3.133	2	7.5
+diving	98	3.133	2	7.5
+intend	98	3.133	2	8.0
+notion	97	3.134	3	7.333
+affect	100	3.14	none
+annoys	100	3.14	none
+appeal	100	3.14	none
+bamboo	100	3.14	none
+begged	100	3.14	none
+boffin	100	3.14	none
+bulgur	100	3.14	none
+chewer	100	3.14	none
+cooker	100	3.14	none
+engine	100	3.14	none
+events	100	3.14	none
+freeze	100	3.14	none
+gallon	100	3.14	none
+jersey	100	3.14	none
+plasma	100	3.14	none
+pupils	100	3.14	none
+pursue	100	3.14	none
+taught	100	3.14	none
+weekly	100	3.14	none
+abayas	99	3.141	1	7.0
+affirm	99	3.141	1	7.0
+attack	99	3.141	1	7.0
+headed	99	3.141	1	7.0
+judged	99	3.141	1	9.0
+lawful	99	3.141	1	7.0
+picnic	99	3.141	1	7.0
+quests	99	3.141	1	7.0
+salads	99	3.141	1	8.0
+charro	98	3.143	2	7.5
+bratty	100	3.15	none
+engage	100	3.15	none
+extend	100	3.15	none
+fixing	100	3.15	none
+galaxy	100	3.15	none
+liquid	100	3.15	none
+losses	100	3.15	none
+onions	100	3.15	none
+pickup	100	3.15	none
+rumors	100	3.15	none
+speech	100	3.15	none
+thirty	100	3.15	none
+unlock	100	3.15	none
+allege	99	3.152	1	8.0
+cackle	99	3.152	1	7.0
+essays	98	3.153	2	8.0
+beaded	100	3.16	none
+bubble	100	3.16	none
+critic	100	3.16	none
+groove	100	3.16	none
+luxury	100	3.16	none
+serves	100	3.16	none
+slowly	100	3.16	none
+spends	100	3.16	none
+street	100	3.16	none
+velvet	100	3.16	none
+wooden	100	3.16	none
+zoning	100	3.16	none
+azalea	99	3.162	1	7.0
+beetle	99	3.162	1	7.0
+blobby	99	3.162	1	7.0
+chancy	99	3.162	1	7.0
+redeem	99	3.162	1	8.0
+boozed	98	3.163	2	7.0
+arrear	100	3.17	none
+ashram	100	3.17	none
+banyan	100	3.17	none
+bungee	100	3.17	none
+dumped	100	3.17	none
+emerge	100	3.17	none
+member	100	3.17	none
+mirror	100	3.17	none
+affine	99	3.172	1	7.0
+cheese	99	3.172	1	7.0
+sheets	99	3.172	1	7.0
+busses	98	3.173	2	8.0
+depend	98	3.173	2	7.0
+befell	100	3.18	none
+bugger	100	3.18	none
+expire	100	3.18	none
+hiding	100	3.18	none
+iconic	100	3.18	none
+indeed	100	3.18	none
+jumped	100	3.18	none
+ripped	100	3.18	none
+bisque	99	3.182	1	7.0
+estate	99	3.182	1	7.0
+future	98	3.184	2	7.0
+hooked	98	3.184	2	7.5
+rubber	98	3.184	2	7.0
+anyway	100	3.19	none
+borrow	100	3.19	none
+common	100	3.19	none
+defend	100	3.19	none
+extent	100	3.19	none
+gaming	100	3.19	none
+highly	100	3.19	none
+intent	100	3.19	none
+oppose	100	3.19	none
+regret	100	3.19	none
+scenes	100	3.19	none
+skills	100	3.19	none
+twelve	100	3.19	none
+afghan	99	3.192	1	7.0
+biggie	99	3.192	1	7.0
+buffer	99	3.192	1	8.0
+memory	99	3.192	1	7.0
+smells	99	3.192	1	8.0
+senses	97	3.196	3	7.0
+better	100	3.2	none
+bumble	100	3.2	none
+chilli	100	3.2	none
+viewer	100	3.2	none
+visits	100	3.2	none
+alpaca	99	3.202	1	7.0
+axeman	99	3.202	1	7.0
+puzzle	99	3.202	1	7.0
+giving	100	3.21	none
+bosses	99	3.212	1	7.0
+bended	98	3.214	2	7.0
+unique	98	3.214	2	7.5
+atlatl	100	3.22	none
+deadly	100	3.22	none
+output	100	3.22	none
+bazaar	98	3.224	2	7.0
+access	100	3.23	none
+budded	100	3.23	none
+cannon	100	3.23	none
+kicked	100	3.23	none
+appear	99	3.232	1	7.0
+uneven	99	3.232	1	7.0
+baboon	100	3.24	none
+bubbly	100	3.24	none
+chinch	100	3.24	none
+mixing	100	3.24	none
+quirky	100	3.24	none
+useful	100	3.24	none
+vessel	100	3.24	none
+zipper	100	3.24	none
+issues	99	3.242	1	9.0
+decade	97	3.247	3	8.0
+boogie	100	3.25	none
+deemed	100	3.25	none
+enjoys	100	3.25	none
+fellow	100	3.25	none
+squash	100	3.25	none
+banana	99	3.253	1	8.0
+church	99	3.253	1	7.0
+alkali	100	3.26	none
+amazed	100	3.26	none
+coffee	99	3.263	1	8.0
+acacia	100	3.27	none
+wildly	100	3.27	none
+bonobo	99	3.273	1	7.0
+cheeky	99	3.273	1	7.0
+hollow	99	3.273	1	7.0
+beefed	100	3.28	none
+allele	99	3.283	1	7.0
+breeze	99	3.283	1	7.0
+follow	99	3.283	1	8.0
+lining	99	3.283	1	8.0
+damage	100	3.29	none
+levels	99	3.293	1	7.0
+pepper	97	3.299	3	7.0
+assess	100	3.3	none
+horror	100	3.3	none
+keeper	99	3.303	1	7.0
+appall	100	3.31	none
+yellow	100	3.31	none
+bedded	99	3.313	1	7.0
+museum	99	3.313	1	7.0
+axilla	99	3.333	1	7.0
+baobab	99	3.333	1	7.0
+needed	99	3.333	1	7.0
+affray	100	3.34	none
+assays	99	3.343	1	7.0
+evolve	100	3.35	none
+inning	100	3.35	none
+exceed	98	3.357	2	7.0
+divide	100	3.36	none
+boohoo	99	3.374	1	7.0
+enzyme	99	3.384	1	7.0
+fluffy	99	3.414	1	7.0
+tattoo	98	3.429	2	7.0
+booboo	100	3.53	none

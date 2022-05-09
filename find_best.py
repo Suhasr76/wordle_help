@@ -1,8 +1,8 @@
 import random
-from aggregate_best import *
+#from aggregate_best import *
 
 
-f = open("valid.txt", 'r')
+f = open("words/valid_6_letter.txt", 'r')
 valid = []
 while True:
     word = f.readline()
@@ -17,8 +17,8 @@ valid = sorted(valid)
 
 l_100 = [1, 2, 3, 4]
 l_1000 = [1, 2, 3]
-sol1 = Aggregate_best()
-rankList = sol1.find_average_dict("output_1000_", l_1000)
+#sol1 = Aggregate_best()
+#rankList = sol1.find_average_dict("outputs/4_letter/output_100_", l_100)
 
 
 class Predict:
@@ -106,15 +106,15 @@ class Predict:
         a, b, c = self.find_lists_dicts(predict, target, a, b, c)
         poss_list = self.predict(a, b, c)
 
-        minRank = 10000
+        ''' minRank = 10000
         for word in poss_list:
 
             temp = rankList.index(word)
             if temp < minRank:
                 minRank = temp
         # print(minRank)
-        new_predict = rankList[minRank]
-        #new_predict = poss_list[random.randrange(0, len(poss_list))]
+        new_predict = rankList[minRank] '''
+        new_predict = poss_list[random.randrange(0, len(poss_list))]
         # print("New Predicted -", new_predict)
         # if len(poss_list) < 50:
         # print(poss_list)
@@ -123,13 +123,13 @@ class Predict:
             new_predict, target, poss_list, count+1, history, a, b, c, valid_guess, max_guess)
 
     def start_to_find_no_of_steps(self):
-        f = open('output_1000_4.txt', 'w')
+        f = open('outputs/6_letter/output_100_3.txt', 'w')
         final = []
         for word in valid:
             count = 0
             valid_guess = []
             max_guess = []
-            while count < 1000:
+            while count < 100:
                 # print(f"{word} ----------------")
                 target = valid[random.randrange(0, len(valid))]
                 a = {}

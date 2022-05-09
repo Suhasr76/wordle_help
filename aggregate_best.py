@@ -1,5 +1,5 @@
 
-l_100 = [1, 2, 3, 4]
+l_100 = [1, 2, 3]
 l_1000 = [1, 2, 3]
 
 
@@ -52,5 +52,5 @@ class Aggregate_best:
 
 
 sol = Aggregate_best()
-final_list = sol.find_average_dict("output_1000_", l_1000)
+final_list = sol.find_average_dict("outputs/6_letter/output_100_", l_100)
 # print(*final_list)

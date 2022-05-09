@@ -8,11 +8,13 @@ f = open("valid.txt", 'r')
 valid = []
 while True:
     word = f.readline()
-    valid.append(word.rstrip())
     if not word:
         break
+    valid.append(word.rstrip())
+
 f.close()
 
+# print(valid)
 
 ''' f1 = open('valid.txt', 'w')
 

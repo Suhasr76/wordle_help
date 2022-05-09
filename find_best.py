@@ -6,12 +6,14 @@ f = open("valid.txt", 'r')
 valid = []
 while True:
     word = f.readline()
-    valid.append(word.rstrip())
     if not word:
         break
+    valid.append(word.rstrip())
+
 f.close()
 
 valid = sorted(valid)
+
 
 l_100 = [1, 2, 3, 4]
 l_1000 = [1, 2, 3]

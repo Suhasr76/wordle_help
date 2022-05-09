@@ -1,0 +1,2309 @@
+ratio	99	2.889	1	7.0
+drift	100	2.89	none
+relic	100	2.89	none
+mealy	100	2.9	none
+reach	100	2.9	none
+slime	99	2.909	1	7.0
+cable	100	2.91	none
+optic	100	2.91	none
+ranch	100	2.91	none
+tamer	100	2.91	none
+plate	99	2.929	1	7.0
+slain	99	2.929	1	8.0
+spoil	100	2.93	none
+first	99	2.939	1	7.0
+clout	100	2.94	none
+wrist	100	2.94	none
+chirp	100	2.95	none
+dunce	100	2.95	none
+fault	100	2.95	none
+fresh	100	2.95	none
+sugar	100	2.95	none
+close	98	2.959	2	7.0
+tango	99	2.96	1	7.0
+drain	100	2.96	none
+tiger	99	2.97	1	7.0
+copse	100	2.97	none
+renal	100	2.97	none
+risen	100	2.97	none
+scald	100	2.97	none
+stead	100	2.97	none
+deign	99	2.98	1	7.0
+great	99	2.98	1	7.0
+aider	100	2.98	none
+islet	100	2.98	none
+pried	100	2.98	none
+shied	100	2.98	none
+spine	100	2.98	none
+spire	100	2.98	none
+splat	100	2.98	none
+login	99	2.99	1	7.0
+pasty	99	2.99	1	7.0
+baler	100	2.99	none
+modal	100	2.99	none
+poser	100	2.99	none
+shine	100	2.99	none
+solid	100	2.99	none
+stale	100	2.99	none
+moral	99	3.0	1	7.0
+setup	99	3.0	1	7.0
+acrid	100	3.0	none
+clump	100	3.0	none
+erupt	100	3.0	none
+fiend	100	3.0	none
+inter	100	3.0	none
+other	100	3.0	none
+power	100	3.0	none
+rinse	100	3.0	none
+scale	100	3.0	none
+smelt	100	3.0	none
+tread	100	3.0	none
+trope	100	3.0	none
+plait	97	3.01	3	7.667
+radio	99	3.01	1	7.0
+acorn	100	3.01	none
+baste	100	3.01	none
+belch	100	3.01	none
+bunch	100	3.01	none
+chief	100	3.01	none
+clang	100	3.01	none
+count	100	3.01	none
+decal	100	3.01	none
+eclat	100	3.01	none
+grant	100	3.01	none
+piney	100	3.01	none
+scent	100	3.01	none
+sumac	100	3.01	none
+frown	98	3.02	2	7.5
+hound	99	3.02	1	7.0
+sauce	99	3.02	1	7.0
+short	99	3.02	1	7.0
+stern	99	3.02	1	7.0
+tonic	99	3.02	1	7.0
+alter	100	3.02	none
+datum	100	3.02	none
+drone	100	3.02	none
+irate	100	3.02	none
+mason	100	3.02	none
+patch	100	3.02	none
+perch	100	3.02	none
+scant	100	3.02	none
+shale	100	3.02	none
+slice	100	3.02	none
+spilt	100	3.02	none
+tapir	100	3.02	none
+tuber	100	3.02	none
+filet	99	3.03	1	7.0
+light	99	3.03	1	7.0
+maple	99	3.03	1	7.0
+smote	99	3.03	1	7.0
+trawl	99	3.03	1	7.0
+binge	100	3.03	none
+crest	100	3.03	none
+crypt	100	3.03	none
+dealt	100	3.03	none
+frost	100	3.03	none
+macro	100	3.03	none
+midst	100	3.03	none
+mince	100	3.03	none
+minor	100	3.03	none
+north	100	3.03	none
+plier	100	3.03	none
+range	100	3.03	none
+relay	100	3.03	none
+snide	100	3.03	none
+style	100	3.03	none
+trail	100	3.03	none
+acute	97	3.031	3	7.0
+blond	99	3.04	1	7.0
+rifle	99	3.04	1	7.0
+tepid	99	3.04	1	7.0
+angel	100	3.04	none
+cruel	100	3.04	none
+draft	100	3.04	none
+eight	100	3.04	none
+giant	100	3.04	none
+lance	100	3.04	none
+loath	100	3.04	none
+melon	100	3.04	none
+neigh	100	3.04	none
+parse	100	3.04	none
+price	100	3.04	none
+prism	100	3.04	none
+prose	100	3.04	none
+satin	100	3.04	none
+scone	100	3.04	none
+shirt	100	3.04	none
+slant	100	3.04	none
+spiel	100	3.04	none
+stein	100	3.04	none
+tried	100	3.04	none
+twine	100	3.04	none
+polar	98	3.041	2	7.0
+right	98	3.041	2	7.5
+tripe	98	3.041	2	7.0
+along	100	3.05	none
+cedar	100	3.05	none
+dumpy	100	3.05	none
+flack	100	3.05	none
+gleam	100	3.05	none
+idler	100	3.05	none
+lapse	100	3.05	none
+mogul	100	3.05	none
+porch	100	3.05	none
+stoic	100	3.05	none
+syrup	100	3.05	none
+table	100	3.05	none
+topic	100	3.05	none
+unlit	100	3.05	none
+cadet	99	3.051	1	7.0
+chart	99	3.051	1	7.0
+madly	99	3.051	1	7.0
+unset	99	3.051	1	7.0
+aphid	100	3.06	none
+badly	100	3.06	none
+birth	100	3.06	none
+cater	100	3.06	none
+cleat	100	3.06	none
+cloud	100	3.06	none
+crate	100	3.06	none
+float	100	3.06	none
+haute	100	3.06	none
+inlay	100	3.06	none
+lurch	100	3.06	none
+magic	100	3.06	none
+nadir	100	3.06	none
+onset	100	3.06	none
+poise	100	3.06	none
+prawn	100	3.06	none
+rapid	100	3.06	none
+regal	100	3.06	none
+saute	100	3.06	none
+sedan	100	3.06	none
+snore	100	3.06	none
+sonic	100	3.06	none
+stark	100	3.06	none
+sting	100	3.06	none
+tonga	100	3.06	none
+water	100	3.06	none
+donut	99	3.061	1	8.0
+organ	99	3.061	1	7.0
+scare	99	3.061	1	7.0
+solve	99	3.061	1	8.0
+trade	99	3.061	1	7.0
+bilge	100	3.07	none
+broth	100	3.07	none
+crass	100	3.07	none
+elfin	100	3.07	none
+flesh	100	3.07	none
+fluid	100	3.07	none
+frond	100	3.07	none
+gaunt	100	3.07	none
+horse	100	3.07	none
+lathe	100	3.07	none
+liner	100	3.07	none
+paint	100	3.07	none
+panic	100	3.07	none
+pesto	100	3.07	none
+prick	100	3.07	none
+prone	100	3.07	none
+ralph	100	3.07	none
+saner	100	3.07	none
+satyr	100	3.07	none
+scaly	100	3.07	none
+scion	100	3.07	none
+scope	100	3.07	none
+scorn	100	3.07	none
+snail	100	3.07	none
+snipe	100	3.07	none
+stair	100	3.07	none
+thrum	100	3.07	none
+tulip	100	3.07	none
+turbo	100	3.07	none
+leant	98	3.071	2	7.0
+clear	99	3.071	1	7.0
+focal	99	3.071	1	7.0
+thorn	99	3.071	1	7.0
+amply	100	3.08	none
+anime	100	3.08	none
+bland	100	3.08	none
+brand	100	3.08	none
+chant	100	3.08	none
+cheat	100	3.08	none
+cried	100	3.08	none
+daunt	100	3.08	none
+dowel	100	3.08	none
+drown	100	3.08	none
+frail	100	3.08	none
+medal	100	3.08	none
+octal	100	3.08	none
+olden	100	3.08	none
+orbit	100	3.08	none
+pitch	100	3.08	none
+plane	100	3.08	none
+since	100	3.08	none
+snarl	100	3.08	none
+spear	100	3.08	none
+spent	100	3.08	none
+stare	100	3.08	none
+trice	100	3.08	none
+trump	100	3.08	none
+untie	100	3.08	none
+align	99	3.081	1	9.0
+depot	99	3.081	1	7.0
+glide	99	3.081	1	7.0
+spend	99	3.081	1	7.0
+storm	99	3.081	1	7.0
+crust	98	3.082	2	7.5
+arise	100	3.09	none
+bleat	100	3.09	none
+blind	100	3.09	none
+blurt	100	3.09	none
+braid	100	3.09	none
+brush	100	3.09	none
+droit	100	3.09	none
+flume	100	3.09	none
+forum	100	3.09	none
+gonad	100	3.09	none
+grape	100	3.09	none
+human	100	3.09	none
+medic	100	3.09	none
+miner	100	3.09	none
+motel	100	3.09	none
+older	100	3.09	none
+pecan	100	3.09	none
+plank	100	3.09	none
+recap	100	3.09	none
+recut	100	3.09	none
+resin	100	3.09	none
+roast	100	3.09	none
+sadly	100	3.09	none
+shame	100	3.09	none
+skate	100	3.09	none
+skier	100	3.09	none
+slurp	100	3.09	none
+spite	100	3.09	none
+split	100	3.09	none
+spurt	100	3.09	none
+vegan	100	3.09	none
+viral	100	3.09	none
+wince	100	3.09	none
+crept	99	3.091	1	7.0
+delta	99	3.091	1	8.0
+drive	99	3.091	1	7.0
+graft	99	3.091	1	7.0
+lithe	99	3.091	1	7.0
+molar	99	3.091	1	7.0
+plain	99	3.091	1	8.0
+prime	99	3.091	1	7.0
+talon	99	3.091	1	7.0
+adult	100	3.1	none
+alone	100	3.1	none
+artsy	100	3.1	none
+board	100	3.1	none
+caper	100	3.1	none
+china	100	3.1	none
+clamp	100	3.1	none
+clown	100	3.1	none
+coupe	100	3.1	none
+court	100	3.1	none
+crash	100	3.1	none
+depth	100	3.1	none
+drape	100	3.1	none
+false	100	3.1	none
+flung	100	3.1	none
+goner	100	3.1	none
+grief	100	3.1	none
+grope	100	3.1	none
+lager	100	3.1	none
+lucid	100	3.1	none
+lymph	100	3.1	none
+mango	100	3.1	none
+match	100	3.1	none
+media	100	3.1	none
+mirth	100	3.1	none
+moult	100	3.1	none
+plant	100	3.1	none
+pride	100	3.1	none
+print	100	3.1	none
+scary	100	3.1	none
+shank	100	3.1	none
+sharp	100	3.1	none
+shelf	100	3.1	none
+slide	100	3.1	none
+soapy	100	3.1	none
+solar	100	3.1	none
+spare	100	3.1	none
+spelt	100	3.1	none
+steak	100	3.1	none
+stomp	100	3.1	none
+swamp	100	3.1	none
+taper	100	3.1	none
+teary	100	3.1	none
+tidal	100	3.1	none
+vague	100	3.1	none
+apron	99	3.101	1	7.0
+credo	99	3.101	1	7.0
+dirty	99	3.101	1	7.0
+grain	99	3.101	1	8.0
+merit	99	3.101	1	7.0
+party	99	3.101	1	7.0
+scram	99	3.101	1	7.0
+slope	99	3.101	1	7.0
+audio	98	3.102	2	7.0
+charm	98	3.102	2	7.0
+crone	98	3.102	2	7.0
+flirt	98	3.102	2	7.0
+gayer	98	3.102	2	8.0
+least	98	3.102	2	7.0
+snuck	98	3.102	2	7.0
+logic	97	3.103	3	7.667
+antic	100	3.11	none
+blare	100	3.11	none
+built	100	3.11	none
+crump	100	3.11	none
+gland	100	3.11	none
+guild	100	3.11	none
+inept	100	3.11	none
+laden	100	3.11	none
+metal	100	3.11	none
+prune	100	3.11	none
+rabid	100	3.11	none
+salvo	100	3.11	none
+scoop	100	3.11	none
+scowl	100	3.11	none
+serum	100	3.11	none
+trend	100	3.11	none
+utile	100	3.11	none
+botch	99	3.111	1	8.0
+spell	99	3.111	1	8.0
+trace	99	3.111	1	7.0
+chain	98	3.112	2	7.0
+alert	100	3.12	none
+arson	100	3.12	none
+blast	100	3.12	none
+bloat	100	3.12	none
+broad	100	3.12	none
+cabin	100	3.12	none
+caste	100	3.12	none
+choir	100	3.12	none
+climb	100	3.12	none
+curly	100	3.12	none
+finer	100	3.12	none
+glyph	100	3.12	none
+hence	100	3.12	none
+incur	100	3.12	none
+manic	100	3.12	none
+music	100	3.12	none
+plied	100	3.12	none
+pound	100	3.12	none
+ramen	100	3.12	none
+scalp	100	3.12	none
+shard	100	3.12	none
+sheet	100	3.12	none
+shift	100	3.12	none
+slate	100	3.12	none
+slept	100	3.12	none
+snake	100	3.12	none
+south	100	3.12	none
+stork	100	3.12	none
+strut	100	3.12	none
+tangy	100	3.12	none
+third	100	3.12	none
+trick	100	3.12	none
+twice	100	3.12	none
+ulcer	100	3.12	none
+vaunt	100	3.12	none
+whine	100	3.12	none
+write	100	3.12	none
+agile	99	3.121	1	7.0
+anger	99	3.121	1	7.0
+arose	99	3.121	1	7.0
+brawn	99	3.121	1	7.0
+could	99	3.121	1	8.0
+haunt	99	3.121	1	7.0
+hotel	99	3.121	1	7.0
+mount	99	3.121	1	7.0
+shaky	99	3.121	1	8.0
+shalt	99	3.121	1	7.0
+smile	99	3.121	1	7.0
+tilde	99	3.121	1	7.0
+yacht	99	3.121	1	9.0
+beast	98	3.122	2	7.0
+about	100	3.13	none
+aloft	100	3.13	none
+candy	100	3.13	none
+clank	100	3.13	none
+daily	100	3.13	none
+ditch	100	3.13	none
+donor	100	3.13	none
+dwelt	100	3.13	none
+farce	100	3.13	none
+grand	100	3.13	none
+graph	100	3.13	none
+grind	100	3.13	none
+guile	100	3.13	none
+latch	100	3.13	none
+lumen	100	3.13	none
+phone	100	3.13	none
+probe	100	3.13	none
+psalm	100	3.13	none
+react	100	3.13	none
+ripen	100	3.13	none
+score	100	3.13	none
+scrub	100	3.13	none
+shoot	100	3.13	none
+shout	100	3.13	none
+shrub	100	3.13	none
+slick	100	3.13	none
+slump	100	3.13	none
+smite	100	3.13	none
+spark	100	3.13	none
+strip	100	3.13	none
+surge	100	3.13	none
+swarm	100	3.13	none
+swirl	100	3.13	none
+torch	100	3.13	none
+truly	100	3.13	none
+crazy	99	3.131	1	8.0
+mulch	99	3.131	1	7.0
+notch	99	3.131	1	7.0
+ridge	99	3.131	1	8.0
+snare	99	3.131	1	7.0
+squat	99	3.131	1	7.0
+steer	99	3.131	1	7.0
+cobra	98	3.133	2	7.0
+aisle	100	3.14	none
+bacon	100	3.14	none
+bathe	100	3.14	none
+bonus	100	3.14	none
+bravo	100	3.14	none
+cairn	100	3.14	none
+cheap	100	3.14	none
+coral	100	3.14	none
+crawl	100	3.14	none
+droop	100	3.14	none
+flint	100	3.14	none
+flute	100	3.14	none
+force	100	3.14	none
+found	100	3.14	none
+genie	100	3.14	none
+infer	100	3.14	none
+labor	100	3.14	none
+lemur	100	3.14	none
+mange	100	3.14	none
+marsh	100	3.14	none
+nicer	100	3.14	none
+niche	100	3.14	none
+outer	100	3.14	none
+penal	100	3.14	none
+point	100	3.14	none
+randy	100	3.14	none
+rebut	100	3.14	none
+scrap	100	3.14	none
+sepia	100	3.14	none
+shake	100	3.14	none
+shuck	100	3.14	none
+slung	100	3.14	none
+sound	100	3.14	none
+space	100	3.14	none
+spawn	100	3.14	none
+stage	100	3.14	none
+stalk	100	3.14	none
+steal	100	3.14	none
+thief	100	3.14	none
+thump	100	3.14	none
+vigil	100	3.14	none
+crime	99	3.141	1	7.0
+curse	99	3.141	1	7.0
+fudge	99	3.141	1	8.0
+inlet	99	3.141	1	7.0
+opera	99	3.141	1	7.0
+skirt	99	3.141	1	7.0
+fried	98	3.143	2	7.0
+ovine	98	3.143	2	8.0
+whirl	98	3.143	2	7.0
+afoul	100	3.15	none
+alien	100	3.15	none
+annul	100	3.15	none
+being	100	3.15	none
+bicep	100	3.15	none
+block	100	3.15	none
+brick	100	3.15	none
+brink	100	3.15	none
+chaos	100	3.15	none
+clove	100	3.15	none
+craft	100	3.15	none
+crush	100	3.15	none
+debit	100	3.15	none
+diode	100	3.15	none
+diver	100	3.15	none
+dough	100	3.15	none
+dwarf	100	3.15	none
+globe	100	3.15	none
+habit	100	3.15	none
+heist	100	3.15	none
+horde	100	3.15	none
+later	100	3.15	none
+mural	100	3.15	none
+petal	100	3.15	none
+pilot	100	3.15	none
+pleat	100	3.15	none
+prank	100	3.15	none
+renew	100	3.15	none
+robin	100	3.15	none
+shark	100	3.15	none
+singe	100	3.15	none
+siren	100	3.15	none
+slink	100	3.15	none
+staid	100	3.15	none
+stamp	100	3.15	none
+store	100	3.15	none
+stung	100	3.15	none
+super	100	3.15	none
+swine	100	3.15	none
+synod	100	3.15	none
+throw	100	3.15	none
+triad	100	3.15	none
+vapor	100	3.15	none
+warty	100	3.15	none
+weird	100	3.15	none
+worth	100	3.15	none
+wrest	100	3.15	none
+amend	99	3.152	1	7.0
+chair	99	3.152	1	8.0
+chest	99	3.152	1	7.0
+comet	99	3.152	1	7.0
+decry	99	3.152	1	8.0
+flora	99	3.152	1	7.0
+glare	99	3.152	1	7.0
+inert	99	3.152	1	7.0
+pudgy	99	3.152	1	8.0
+sandy	99	3.152	1	7.0
+scrum	99	3.152	1	7.0
+spade	99	3.152	1	7.0
+trove	99	3.152	1	7.0
+gulch	98	3.153	2	7.5
+grace	97	3.155	3	7.333
+barge	100	3.16	none
+begat	100	3.16	none
+blunt	100	3.16	none
+bound	100	3.16	none
+brood	100	3.16	none
+brunt	100	3.16	none
+chasm	100	3.16	none
+clone	100	3.16	none
+cloth	100	3.16	none
+clued	100	3.16	none
+cramp	100	3.16	none
+cream	100	3.16	none
+crisp	100	3.16	none
+dance	100	3.16	none
+delay	100	3.16	none
+erase	100	3.16	none
+fecal	100	3.16	none
+fetal	100	3.16	none
+flair	100	3.16	none
+flake	100	3.16	none
+flare	100	3.16	none
+fraud	100	3.16	none
+golem	100	3.16	none
+groan	100	3.16	none
+gruel	100	3.16	none
+guest	100	3.16	none
+hoard	100	3.16	none
+minus	100	3.16	none
+miser	100	3.16	none
+peril	100	3.16	none
+plush	100	3.16	none
+raise	100	3.16	none
+rumba	100	3.16	none
+scamp	100	3.16	none
+shear	100	3.16	none
+shire	100	3.16	none
+shone	100	3.16	none
+tacit	100	3.16	none
+tiara	100	3.16	none
+truck	100	3.16	none
+urban	100	3.16	none
+yearn	100	3.16	none
+adorn	99	3.162	1	7.0
+borne	99	3.162	1	7.0
+brain	99	3.162	1	7.0
+bulge	99	3.162	1	7.0
+crowd	99	3.162	1	7.0
+dream	99	3.162	1	8.0
+leper	99	3.162	1	7.0
+meant	99	3.162	1	7.0
+mouse	99	3.162	1	7.0
+racer	99	3.162	1	7.0
+shunt	99	3.162	1	7.0
+width	99	3.162	1	7.0
+valid	97	3.165	3	7.667
+abled	100	3.17	none
+angst	100	3.17	none
+basal	100	3.17	none
+blade	100	3.17	none
+bleak	100	3.17	none
+blend	100	3.17	none
+brash	100	3.17	none
+buyer	100	3.17	none
+chard	100	3.17	none
+chump	100	3.17	none
+cleft	100	3.17	none
+cloak	100	3.17	none
+ethic	100	3.17	none
+flank	100	3.17	none
+forge	100	3.17	none
+forte	100	3.17	none
+glade	100	3.17	none
+grime	100	3.17	none
+harpy	100	3.17	none
+homer	100	3.17	none
+lofty	100	3.17	none
+loser	100	3.17	none
+lumpy	100	3.17	none
+lunar	100	3.17	none
+lunch	100	3.17	none
+musty	100	3.17	none
+nosey	100	3.17	none
+panel	100	3.17	none
+pause	100	3.17	none
+pinto	100	3.17	none
+ratty	100	3.17	none
+shorn	100	3.17	none
+sigma	100	3.17	none
+stone	100	3.17	none
+taken	100	3.17	none
+their	100	3.17	none
+thyme	100	3.17	none
+tribe	100	3.17	none
+unite	100	3.17	none
+vault	100	3.17	none
+angry	99	3.172	1	8.0
+aptly	99	3.172	1	8.0
+berth	99	3.172	1	7.0
+coast	99	3.172	1	7.0
+demur	99	3.172	1	7.0
+guilt	99	3.172	1	8.0
+laugh	99	3.172	1	7.0
+novel	99	3.172	1	8.0
+pithy	99	3.172	1	9.0
+screw	99	3.172	1	7.0
+stuck	99	3.172	1	7.0
+tacky	99	3.172	1	7.0
+tough	99	3.172	1	7.0
+twirl	99	3.172	1	7.0
+until	99	3.172	1	7.0
+watch	99	3.172	1	7.0
+aloud	98	3.173	2	7.5
+brake	98	3.173	2	7.0
+ought	98	3.173	2	7.0
+pedal	98	3.173	2	7.0
+tardy	98	3.173	2	8.0
+baton	100	3.18	none
+black	100	3.18	none
+camel	100	3.18	none
+claim	100	3.18	none
+clash	100	3.18	none
+clerk	100	3.18	none
+crane	100	3.18	none
+facet	100	3.18	none
+fruit	100	3.18	none
+glaze	100	3.18	none
+gripe	100	3.18	none
+groin	100	3.18	none
+hairy	100	3.18	none
+haste	100	3.18	none
+knead	100	3.18	none
+leash	100	3.18	none
+lemon	100	3.18	none
+lunge	100	3.18	none
+model	100	3.18	none
+nasal	100	3.18	none
+pansy	100	3.18	none
+phase	100	3.18	none
+plumb	100	3.18	none
+prong	100	3.18	none
+riper	100	3.18	none
+smith	100	3.18	none
+snaky	100	3.18	none
+strap	100	3.18	none
+taker	100	3.18	none
+taunt	100	3.18	none
+trash	100	3.18	none
+trial	100	3.18	none
+truce	100	3.18	none
+tunic	100	3.18	none
+uncle	100	3.18	none
+unmet	100	3.18	none
+wider	100	3.18	none
+wrote	100	3.18	none
+caput	99	3.182	1	7.0
+dirge	99	3.182	1	8.0
+eaten	99	3.182	1	8.0
+enact	99	3.182	1	7.0
+flask	99	3.182	1	7.0
+gravy	99	3.182	1	7.0
+halve	99	3.182	1	7.0
+heart	99	3.182	1	7.0
+loose	99	3.182	1	7.0
+merge	99	3.182	1	7.0
+saucy	99	3.182	1	7.0
+dutch	98	3.184	2	7.0
+shaft	98	3.184	2	7.0
+lusty	97	3.186	3	7.0
+amble	100	3.19	none
+batch	100	3.19	none
+bleep	100	3.19	none
+blown	100	3.19	none
+brief	100	3.19	none
+bused	100	3.19	none
+cache	100	3.19	none
+cavil	100	3.19	none
+clasp	100	3.19	none
+corny	100	3.19	none
+cover	100	3.19	none
+curve	100	3.19	none
+drawl	100	3.19	none
+filth	100	3.19	none
+front	100	3.19	none
+lurid	100	3.19	none
+lying	100	3.19	none
+lyric	100	3.19	none
+midge	100	3.19	none
+naive	100	3.19	none
+paler	100	3.19	none
+plead	100	3.19	none
+ready	100	3.19	none
+retch	100	3.19	none
+rodeo	100	3.19	none
+sheen	100	3.19	none
+sonar	100	3.19	none
+spank	100	3.19	none
+spice	100	3.19	none
+spree	100	3.19	none
+swath	100	3.19	none
+tonal	100	3.19	none
+wield	100	3.19	none
+worst	100	3.19	none
+wound	100	3.19	none
+began	99	3.192	1	7.0
+cause	99	3.192	1	7.0
+elder	99	3.192	1	7.0
+eying	99	3.192	1	8.0
+fjord	99	3.192	1	7.0
+intro	99	3.192	1	7.0
+mercy	99	3.192	1	7.0
+mocha	99	3.192	1	7.0
+paste	99	3.192	1	7.0
+payer	99	3.192	1	7.0
+pluck	99	3.192	1	7.0
+pouch	99	3.192	1	7.0
+repel	99	3.192	1	7.0
+sleek	99	3.192	1	7.0
+toast	99	3.192	1	7.0
+undue	99	3.192	1	7.0
+usage	99	3.192	1	7.0
+vinyl	99	3.192	1	7.0
+white	98	3.194	2	7.0
+yeast	98	3.194	2	7.5
+argue	100	3.2	none
+aunty	100	3.2	none
+begun	100	3.2	none
+belie	100	3.2	none
+bison	100	3.2	none
+brown	100	3.2	none
+brute	100	3.2	none
+build	100	3.2	none
+crumb	100	3.2	none
+cumin	100	3.2	none
+death	100	3.2	none
+doubt	100	3.2	none
+ethos	100	3.2	none
+faint	100	3.2	none
+fairy	100	3.2	none
+frank	100	3.2	none
+heavy	100	3.2	none
+horny	100	3.2	none
+meaty	100	3.2	none
+nasty	100	3.2	none
+night	100	3.2	none
+olive	100	3.2	none
+pearl	100	3.2	none
+place	100	3.2	none
+prude	100	3.2	none
+purge	100	3.2	none
+shack	100	3.2	none
+sheik	100	3.2	none
+shrug	100	3.2	none
+smart	100	3.2	none
+snout	100	3.2	none
+stain	100	3.2	none
+stole	100	3.2	none
+swear	100	3.2	none
+sweat	100	3.2	none
+swoon	100	3.2	none
+swore	100	3.2	none
+tract	100	3.2	none
+troll	100	3.2	none
+whale	100	3.2	none
+whose	100	3.2	none
+wrong	100	3.2	none
+apnea	99	3.202	1	7.0
+beady	99	3.202	1	7.0
+brace	99	3.202	1	7.0
+cough	99	3.202	1	7.0
+cutie	99	3.202	1	8.0
+cyber	99	3.202	1	7.0
+devil	99	3.202	1	7.0
+finch	99	3.202	1	7.0
+frame	99	3.202	1	7.0
+harem	99	3.202	1	8.0
+meter	99	3.202	1	7.0
+patio	99	3.202	1	7.0
+quail	99	3.202	1	7.0
+spicy	99	3.202	1	7.0
+vicar	99	3.202	1	8.0
+coyly	98	3.204	2	7.0
+crude	98	3.204	2	8.0
+email	98	3.204	2	7.0
+fetch	98	3.204	2	7.0
+steam	98	3.204	2	7.0
+adept	100	3.21	none
+adobe	100	3.21	none
+amiss	100	3.21	none
+aside	100	3.21	none
+atone	100	3.21	none
+badge	100	3.21	none
+basic	100	3.21	none
+brave	100	3.21	none
+bulky	100	3.21	none
+canoe	100	3.21	none
+chock	100	3.21	none
+crank	100	3.21	none
+curio	100	3.21	none
+dairy	100	3.21	none
+debar	100	3.21	none
+dimly	100	3.21	none
+endow	100	3.21	none
+fetus	100	3.21	none
+ficus	100	3.21	none
+flood	100	3.21	none
+frock	100	3.21	none
+gecko	100	3.21	none
+giver	100	3.21	none
+grate	100	3.21	none
+greet	100	3.21	none
+grimy	100	3.21	none
+humor	100	3.21	none
+knelt	100	3.21	none
+knife	100	3.21	none
+liken	100	3.21	none
+locus	100	3.21	none
+lodge	100	3.21	none
+moron	100	3.21	none
+nomad	100	3.21	none
+nudge	100	3.21	none
+offal	100	3.21	none
+peach	100	3.21	none
+plaid	100	3.21	none
+purse	100	3.21	none
+rivet	100	3.21	none
+route	100	3.21	none
+salty	100	3.21	none
+shock	100	3.21	none
+sight	100	3.21	none
+silky	100	3.21	none
+smell	100	3.21	none
+sport	100	3.21	none
+spout	100	3.21	none
+stank	100	3.21	none
+study	100	3.21	none
+sword	100	3.21	none
+thank	100	3.21	none
+throb	100	3.21	none
+tubal	100	3.21	none
+tumor	100	3.21	none
+unity	100	3.21	none
+usher	100	3.21	none
+video	100	3.21	none
+agree	99	3.212	1	7.0
+album	99	3.212	1	7.0
+gamut	99	3.212	1	7.0
+input	99	3.212	1	7.0
+large	99	3.212	1	7.0
+leafy	99	3.212	1	7.0
+puree	99	3.212	1	7.0
+radii	99	3.212	1	8.0
+realm	99	3.212	1	7.0
+sunny	99	3.212	1	7.0
+tease	99	3.212	1	7.0
+thing	99	3.212	1	7.0
+those	99	3.212	1	7.0
+nerdy	98	3.214	2	7.0
+tight	97	3.216	3	7.0
+amber	100	3.22	none
+ashen	100	3.22	none
+balmy	100	3.22	none
+baron	100	3.22	none
+basin	100	3.22	none
+biome	100	3.22	none
+blaze	100	3.22	none
+bread	100	3.22	none
+chime	100	3.22	none
+chute	100	3.22	none
+daisy	100	3.22	none
+doing	100	3.22	none
+field	100	3.22	none
+fleck	100	3.22	none
+fleet	100	3.22	none
+flick	100	3.22	none
+glint	100	3.22	none
+gloat	100	3.22	none
+glove	100	3.22	none
+green	100	3.22	none
+gusto	100	3.22	none
+joust	100	3.22	none
+junto	100	3.22	none
+louse	100	3.22	none
+lover	100	3.22	none
+ocean	100	3.22	none
+posit	100	3.22	none
+rebus	100	3.22	none
+remit	100	3.22	none
+shape	100	3.22	none
+share	100	3.22	none
+shirk	100	3.22	none
+shore	100	3.22	none
+shown	100	3.22	none
+stony	100	3.22	none
+stump	100	3.22	none
+teach	100	3.22	none
+tempo	100	3.22	none
+tenor	100	3.22	none
+truss	100	3.22	none
+umbra	100	3.22	none
+voice	100	3.22	none
+woman	100	3.22	none
+altar	99	3.222	1	7.0
+ascot	99	3.222	1	7.0
+bevel	99	3.222	1	7.0
+creak	99	3.222	1	7.0
+duvet	99	3.222	1	7.0
+entry	99	3.222	1	7.0
+glean	99	3.222	1	7.0
+ladle	99	3.222	1	7.0
+layer	99	3.222	1	7.0
+march	99	3.222	1	7.0
+oaken	99	3.222	1	7.0
+piper	99	3.222	1	7.0
+sixty	99	3.222	1	8.0
+slash	99	3.222	1	7.0
+stick	99	3.222	1	7.0
+under	99	3.222	1	7.0
+urine	99	3.222	1	7.0
+valor	99	3.222	1	7.0
+wheel	99	3.222	1	7.0
+fatal	98	3.224	2	7.0
+stink	98	3.224	2	7.0
+topaz	98	3.224	2	7.0
+abide	100	3.23	none
+alike	100	3.23	none
+anode	100	3.23	none
+await	100	3.23	none
+beset	100	3.23	none
+brine	100	3.23	none
+broom	100	3.23	none
+burnt	100	3.23	none
+cello	100	3.23	none
+conic	100	3.23	none
+curvy	100	3.23	none
+dogma	100	3.23	none
+dowry	100	3.23	none
+fence	100	3.23	none
+feral	100	3.23	none
+flout	100	3.23	none
+frill	100	3.23	none
+frisk	100	3.23	none
+ghost	100	3.23	none
+grove	100	3.23	none
+growl	100	3.23	none
+hater	100	3.23	none
+heron	100	3.23	none
+hinge	100	3.23	none
+ingot	100	3.23	none
+morph	100	3.23	none
+noble	100	3.23	none
+palsy	100	3.23	none
+punch	100	3.23	none
+reset	100	3.23	none
+roach	100	3.23	none
+robot	100	3.23	none
+round	100	3.23	none
+safer	100	3.23	none
+salon	100	3.23	none
+scold	100	3.23	none
+shell	100	3.23	none
+sloth	100	3.23	none
+sneer	100	3.23	none
+spoon	100	3.23	none
+sprig	100	3.23	none
+thong	100	3.23	none
+track	100	3.23	none
+tying	100	3.23	none
+welsh	100	3.23	none
+aping	99	3.232	1	7.0
+carve	99	3.232	1	7.0
+churn	99	3.232	1	7.0
+color	99	3.232	1	7.0
+drake	99	3.232	1	7.0
+feast	99	3.232	1	7.0
+hoist	99	3.232	1	8.0
+imbue	99	3.232	1	7.0
+jaunt	99	3.232	1	7.0
+nutty	99	3.232	1	7.0
+rainy	99	3.232	1	7.0
+stand	99	3.232	1	7.0
+tibia	98	3.235	2	7.0
+touch	98	3.235	2	7.0
+trite	98	3.235	2	7.0
+witch	98	3.235	2	7.5
+actor	100	3.24	none
+alive	100	3.24	none
+ample	100	3.24	none
+apple	100	3.24	none
+atoll	100	3.24	none
+audit	100	3.24	none
+beard	100	3.24	none
+bench	100	3.24	none
+bloke	100	3.24	none
+blush	100	3.24	none
+bring	100	3.24	none
+cargo	100	3.24	none
+cease	100	3.24	none
+chalk	100	3.24	none
+child	100	3.24	none
+click	100	3.24	none
+crony	100	3.24	none
+croup	100	3.24	none
+diner	100	3.24	none
+dried	100	3.24	none
+eking	100	3.24	none
+epoch	100	3.24	none
+favor	100	3.24	none
+feign	100	3.24	none
+graze	100	3.24	none
+hedge	100	3.24	none
+learn	100	3.24	none
+lilac	100	3.24	none
+money	100	3.24	none
+motif	100	3.24	none
+often	100	3.24	none
+proof	100	3.24	none
+pupil	100	3.24	none
+reign	100	3.24	none
+sever	100	3.24	none
+shady	100	3.24	none
+shiny	100	3.24	none
+sinew	100	3.24	none
+sloop	100	3.24	none
+smirk	100	3.24	none
+snort	100	3.24	none
+snowy	100	3.24	none
+spiny	100	3.24	none
+suing	100	3.24	none
+testy	100	3.24	none
+timid	100	3.24	none
+today	100	3.24	none
+torus	100	3.24	none
+vapid	100	3.24	none
+wagon	100	3.24	none
+world	100	3.24	none
+abate	99	3.242	1	7.0
+arrow	99	3.242	1	7.0
+coven	99	3.242	1	7.0
+debut	99	3.242	1	7.0
+edict	99	3.242	1	7.0
+erect	99	3.242	1	7.0
+felon	99	3.242	1	7.0
+genre	99	3.242	1	7.0
+heady	99	3.242	1	7.0
+hyper	99	3.242	1	7.0
+pixel	99	3.242	1	7.0
+reply	99	3.242	1	7.0
+taint	99	3.242	1	7.0
+usual	99	3.242	1	7.0
+askew	98	3.245	2	7.0
+vigor	97	3.247	3	7.667
+abuse	100	3.25	none
+adage	100	3.25	none
+adopt	100	3.25	none
+anvil	100	3.25	none
+award	100	3.25	none
+awful	100	3.25	none
+birch	100	3.25	none
+bloom	100	3.25	none
+booty	100	3.25	none
+brisk	100	3.25	none
+cagey	100	3.25	none
+class	100	3.25	none
+cress	100	3.25	none
+decor	100	3.25	none
+demon	100	3.25	none
+drool	100	3.25	none
+earth	100	3.25	none
+ebony	100	3.25	none
+filmy	100	3.25	none
+flash	100	3.25	none
+forty	100	3.25	none
+fungi	100	3.25	none
+gloom	100	3.25	none
+gourd	100	3.25	none
+gusty	100	3.25	none
+hardy	100	3.25	none
+harsh	100	3.25	none
+husky	100	3.25	none
+image	100	3.25	none
+inane	100	3.25	none
+ledge	100	3.25	none
+opine	100	3.25	none
+owner	100	3.25	none
+poesy	100	3.25	none
+preen	100	3.25	none
+primo	100	3.25	none
+rabbi	100	3.25	none
+rayon	100	3.25	none
+retro	100	3.25	none
+reuse	100	3.25	none
+rigor	100	3.25	none
+rumor	100	3.25	none
+salad	100	3.25	none
+savor	100	3.25	none
+sheep	100	3.25	none
+snack	100	3.25	none
+spurn	100	3.25	none
+stoop	100	3.25	none
+stove	100	3.25	none
+stunk	100	3.25	none
+suave	100	3.25	none
+swing	100	3.25	none
+theme	100	3.25	none
+threw	100	3.25	none
+unwed	100	3.25	none
+voila	100	3.25	none
+weigh	100	3.25	none
+whole	100	3.25	none
+abhor	99	3.253	1	7.0
+befit	99	3.253	1	7.0
+buddy	99	3.253	1	8.0
+burst	99	3.253	1	7.0
+crave	99	3.253	1	7.0
+itchy	99	3.253	1	7.0
+joist	99	3.253	1	7.0
+outdo	99	3.253	1	7.0
+proud	99	3.253	1	7.0
+prowl	99	3.253	1	7.0
+raven	99	3.253	1	7.0
+scene	99	3.253	1	7.0
+seedy	99	3.253	1	7.0
+smoke	99	3.253	1	7.0
+sneak	99	3.253	1	7.0
+waver	99	3.253	1	7.0
+widen	99	3.253	1	7.0
+slang	98	3.255	2	7.0
+women	98	3.255	2	7.0
+alarm	100	3.26	none
+bagel	100	3.26	none
+bawdy	100	3.26	none
+below	100	3.26	none
+betel	100	3.26	none
+brass	100	3.26	none
+crack	100	3.26	none
+crimp	100	3.26	none
+croak	100	3.26	none
+decay	100	3.26	none
+drawn	100	3.26	none
+drove	100	3.26	none
+edify	100	3.26	none
+fancy	100	3.26	none
+fetid	100	3.26	none
+flunk	100	3.26	none
+grout	100	3.26	none
+heard	100	3.26	none
+house	100	3.26	none
+hovel	100	3.26	none
+hutch	100	3.26	none
+imply	100	3.26	none
+lingo	100	3.26	none
+macho	100	3.26	none
+ombre	100	3.26	none
+plaza	100	3.26	none
+quoth	100	3.26	none
+rough	100	3.26	none
+royal	100	3.26	none
+scour	100	3.26	none
+speck	100	3.26	none
+story	100	3.26	none
+swept	100	3.26	none
+terse	100	3.26	none
+token	100	3.26	none
+tower	100	3.26	none
+trunk	100	3.26	none
+usurp	100	3.26	none
+weary	100	3.26	none
+wrath	100	3.26	none
+young	100	3.26	none
+zonal	100	3.26	none
+beech	99	3.263	1	7.0
+dozen	99	3.263	1	8.0
+elite	99	3.263	1	7.0
+evict	99	3.263	1	8.0
+exalt	99	3.263	1	7.0
+grade	99	3.263	1	8.0
+howdy	99	3.263	1	7.0
+kneel	99	3.263	1	8.0
+local	99	3.263	1	7.0
+maker	99	3.263	1	7.0
+mangy	99	3.263	1	7.0
+pinch	99	3.263	1	7.0
+salve	99	3.263	1	7.0
+slosh	99	3.263	1	7.0
+steel	99	3.263	1	7.0
+stoke	99	3.263	1	8.0
+stray	99	3.263	1	7.0
+uncut	99	3.263	1	7.0
+humus	98	3.265	2	7.0
+sober	98	3.265	2	7.0
+abort	100	3.27	none
+admit	100	3.27	none
+agent	100	3.27	none
+ankle	100	3.27	none
+apart	100	3.27	none
+boast	100	3.27	none
+bride	100	3.27	none
+bushy	100	3.27	none
+bylaw	100	3.27	none
+chill	100	3.27	none
+clean	100	3.27	none
+clung	100	3.27	none
+creek	100	3.27	none
+crown	100	3.27	none
+drink	100	3.27	none
+eager	100	3.27	none
+eater	100	3.27	none
+femur	100	3.27	none
+floss	100	3.27	none
+freak	100	3.27	none
+fritz	100	3.27	none
+grail	100	3.27	none
+grunt	100	3.27	none
+happy	100	3.27	none
+hasty	100	3.27	none
+leech	100	3.27	none
+liege	100	3.27	none
+mayor	100	3.27	none
+mower	100	3.27	none
+muddy	100	3.27	none
+nobly	100	3.27	none
+opium	100	3.27	none
+overt	100	3.27	none
+quota	100	3.27	none
+raspy	100	3.27	none
+rehab	100	3.27	none
+rhyme	100	3.27	none
+rogue	100	3.27	none
+serif	100	3.27	none
+slack	100	3.27	none
+stake	100	3.27	none
+steep	100	3.27	none
+sulky	100	3.27	none
+tally	100	3.27	none
+tramp	100	3.27	none
+tulle	100	3.27	none
+twang	100	3.27	none
+ultra	100	3.27	none
+using	100	3.27	none
+vista	100	3.27	none
+vying	100	3.27	none
+wafer	100	3.27	none
+ardor	99	3.273	1	7.0
+begin	99	3.273	1	7.0
+cameo	99	3.273	1	7.0
+clock	99	3.273	1	7.0
+duchy	99	3.273	1	7.0
+hefty	99	3.273	1	7.0
+hymen	99	3.273	1	7.0
+ivory	99	3.273	1	7.0
+lower	99	3.273	1	7.0
+maybe	99	3.273	1	7.0
+moose	99	3.273	1	7.0
+nerve	99	3.273	1	7.0
+radar	99	3.273	1	8.0
+refit	99	3.273	1	8.0
+think	99	3.273	1	7.0
+value	99	3.273	1	7.0
+adore	98	3.276	2	7.0
+chafe	98	3.276	2	7.0
+shyly	98	3.276	2	7.0
+wreak	98	3.276	2	7.0
+admin	100	3.28	none
+after	100	3.28	none
+banjo	100	3.28	none
+blimp	100	3.28	none
+boost	100	3.28	none
+carol	100	3.28	none
+condo	100	3.28	none
+creed	100	3.28	none
+creme	100	3.28	none
+deter	100	3.28	none
+elect	100	3.28	none
+ether	100	3.28	none
+final	100	3.28	none
+foist	100	3.28	none
+girth	100	3.28	none
+hello	100	3.28	none
+lapel	100	3.28	none
+linen	100	3.28	none
+lupus	100	3.28	none
+manly	100	3.28	none
+mauve	100	3.28	none
+prove	100	3.28	none
+rupee	100	3.28	none
+saint	100	3.28	none
+scuba	100	3.28	none
+skunk	100	3.28	none
+speak	100	3.28	none
+stash	100	3.28	none
+straw	100	3.28	none
+tawny	100	3.28	none
+towel	100	3.28	none
+vixen	100	3.28	none
+waist	100	3.28	none
+waltz	100	3.28	none
+blink	99	3.283	1	7.0
+dopey	99	3.283	1	7.0
+loamy	99	3.283	1	7.0
+munch	99	3.283	1	7.0
+musky	99	3.283	1	8.0
+piece	99	3.283	1	7.0
+totem	99	3.283	1	7.0
+vocal	99	3.283	1	8.0
+wheat	99	3.283	1	7.0
+rouge	98	3.286	2	7.5
+tarot	98	3.286	2	7.0
+attic	100	3.29	none
+axiom	100	3.29	none
+blame	100	3.29	none
+briny	100	3.29	none
+chili	100	3.29	none
+cliff	100	3.29	none
+cower	100	3.29	none
+cross	100	3.29	none
+debug	100	3.29	none
+drank	100	3.29	none
+dusty	100	3.29	none
+enemy	100	3.29	none
+faith	100	3.29	none
+fifth	100	3.29	none
+fight	100	3.29	none
+forth	100	3.29	none
+froth	100	3.29	none
+gamer	100	3.29	none
+gaudy	100	3.29	none
+gazer	100	3.29	none
+glory	100	3.29	none
+index	100	3.29	none
+leery	100	3.29	none
+lipid	100	3.29	none
+mucus	100	3.29	none
+occur	100	3.29	none
+patty	100	3.29	none
+plump	100	3.29	none
+polka	100	3.29	none
+scarf	100	3.29	none
+scout	100	3.29	none
+shawl	100	3.29	none
+shove	100	3.29	none
+slunk	100	3.29	none
+spike	100	3.29	none
+spore	100	3.29	none
+spray	100	3.29	none
+spunk	100	3.29	none
+stood	100	3.29	none
+tipsy	100	3.29	none
+toxic	100	3.29	none
+treat	100	3.29	none
+unfit	100	3.29	none
+union	100	3.29	none
+whoop	100	3.29	none
+worse	100	3.29	none
+yield	100	3.29	none
+above	99	3.293	1	8.0
+axion	99	3.293	1	7.0
+carat	99	3.293	1	7.0
+cling	99	3.293	1	7.0
+fiery	99	3.293	1	7.0
+leapt	99	3.293	1	7.0
+smock	99	3.293	1	7.0
+taste	99	3.293	1	8.0
+these	99	3.293	1	7.0
+truth	99	3.293	1	7.0
+upset	99	3.293	1	7.0
+wiser	99	3.293	1	7.0
+loyal	98	3.296	2	7.0
+train	98	3.296	2	8.0
+payee	97	3.299	3	7.0
+abode	100	3.3	none
+bough	100	3.3	none
+butte	100	3.3	none
+canal	100	3.3	none
+exist	100	3.3	none
+fanny	100	3.3	none
+flame	100	3.3	none
+flyer	100	3.3	none
+foyer	100	3.3	none
+gruff	100	3.3	none
+holly	100	3.3	none
+lorry	100	3.3	none
+mourn	100	3.3	none
+noisy	100	3.3	none
+otter	100	3.3	none
+pooch	100	3.3	none
+quart	100	3.3	none
+rearm	100	3.3	none
+rouse	100	3.3	none
+sling	100	3.3	none
+spasm	100	3.3	none
+stall	100	3.3	none
+stout	100	3.3	none
+tenth	100	3.3	none
+thick	100	3.3	none
+toxin	100	3.3	none
+chore	99	3.303	1	7.0
+epoxy	99	3.303	1	8.0
+girly	99	3.303	1	7.0
+helix	99	3.303	1	8.0
+honey	99	3.303	1	8.0
+metro	99	3.303	1	7.0
+spiky	99	3.303	1	7.0
+booze	95	3.305	5	7.0
+angle	98	3.306	2	8.5
+havoc	98	3.306	2	7.0
+pagan	98	3.306	2	8.0
+amity	100	3.31	none
+blank	100	3.31	none
+bosom	100	3.31	none
+cabal	100	3.31	none
+comic	100	3.31	none
+conch	100	3.31	none
+denim	100	3.31	none
+elbow	100	3.31	none
+enter	100	3.31	none
+flour	100	3.31	none
+grasp	100	3.31	none
+hurry	100	3.31	none
+hyena	100	3.31	none
+ideal	100	3.31	none
+kneed	100	3.31	none
+lanky	100	3.31	none
+leach	100	3.31	none
+leaky	100	3.31	none
+manor	100	3.31	none
+might	100	3.31	none
+movie	100	3.31	none
+mushy	100	3.31	none
+nylon	100	3.31	none
+ounce	100	3.31	none
+penny	100	3.31	none
+pulse	100	3.31	none
+ruler	100	3.31	none
+savoy	100	3.31	none
+scoff	100	3.31	none
+sooth	100	3.31	none
+sorry	100	3.31	none
+speed	100	3.31	none
+swell	100	3.31	none
+utter	100	3.31	none
+wharf	100	3.31	none
+wrack	100	3.31	none
+chose	99	3.313	1	7.0
+chunk	99	3.313	1	7.0
+cigar	99	3.313	1	9.0
+creep	99	3.313	1	8.0
+dingo	99	3.313	1	7.0
+drama	99	3.313	1	7.0
+fella	99	3.313	1	7.0
+gipsy	99	3.313	1	7.0
+hotly	99	3.313	1	7.0
+issue	99	3.313	1	7.0
+mouth	99	3.313	1	7.0
+pence	99	3.313	1	7.0
+phony	99	3.313	1	7.0
+sleet	99	3.313	1	7.0
+slush	99	3.313	1	7.0
+small	99	3.313	1	7.0
+stack	99	3.313	1	7.0
+waxen	99	3.313	1	7.0
+afire	100	3.32	none
+alibi	100	3.32	none
+aroma	100	3.32	none
+avoid	100	3.32	none
+beget	100	3.32	none
+blitz	100	3.32	none
+broil	100	3.32	none
+cider	100	3.32	none
+circa	100	3.32	none
+clink	100	3.32	none
+craze	100	3.32	none
+decoy	100	3.32	none
+dingy	100	3.32	none
+dodge	100	3.32	none
+dolly	100	3.32	none
+ester	100	3.32	none
+flier	100	3.32	none
+flock	100	3.32	none
+gumbo	100	3.32	none
+haven	100	3.32	none
+igloo	100	3.32	none
+joint	100	3.32	none
+lease	100	3.32	none
+natal	100	3.32	none
+navel	100	3.32	none
+paddy	100	3.32	none
+patsy	100	3.32	none
+peace	100	3.32	none
+photo	100	3.32	none
+picky	100	3.32	none
+rhino	100	3.32	none
+roost	100	3.32	none
+sheer	100	3.32	none
+sleep	100	3.32	none
+sower	100	3.32	none
+spied	100	3.32	none
+spool	100	3.32	none
+suite	100	3.32	none
+timer	100	3.32	none
+torso	100	3.32	none
+tweak	100	3.32	none
+valve	100	3.32	none
+villa	100	3.32	none
+waive	100	3.32	none
+while	100	3.32	none
+wrung	100	3.32	none
+basil	99	3.323	1	7.0
+briar	99	3.323	1	7.0
+dread	99	3.323	1	7.0
+druid	99	3.323	1	7.0
+motor	99	3.323	1	7.0
+ovate	99	3.323	1	8.0
+piety	99	3.323	1	7.0
+viper	99	3.323	1	8.0
+waste	99	3.323	1	7.0
+manga	98	3.327	2	7.0
+proxy	98	3.327	2	7.0
+crook	97	3.33	3	7.0
+agony	100	3.33	none
+allot	100	3.33	none
+augur	100	3.33	none
+aware	100	3.33	none
+bingo	100	3.33	none
+boney	100	3.33	none
+bowel	100	3.33	none
+breed	100	3.33	none
+butch	100	3.33	none
+catch	100	3.33	none
+choke	100	3.33	none
+detox	100	3.33	none
+disco	100	3.33	none
+drier	100	3.33	none
+enema	100	3.33	none
+filer	100	3.33	none
+gaily	100	3.33	none
+junta	100	3.33	none
+kiosk	100	3.33	none
+liver	100	3.33	none
+merry	100	3.33	none
+milky	100	3.33	none
+mound	100	3.33	none
+murky	100	3.33	none
+newly	100	3.33	none
+pushy	100	3.33	none
+reedy	100	3.33	none
+riser	100	3.33	none
+roomy	100	3.33	none
+rowdy	100	3.33	none
+rugby	100	3.33	none
+sappy	100	3.33	none
+scree	100	3.33	none
+shade	100	3.33	none
+smear	100	3.33	none
+smoky	100	3.33	none
+spoke	100	3.33	none
+steed	100	3.33	none
+taffy	100	3.33	none
+unfed	100	3.33	none
+unify	100	3.33	none
+verse	100	3.33	none
+windy	100	3.33	none
+wring	100	3.33	none
+avert	96	3.333	4	7.0
+diary	99	3.333	1	7.0
+fishy	99	3.333	1	7.0
+gassy	99	3.333	1	7.0
+humid	99	3.333	1	7.0
+major	99	3.333	1	7.0
+mover	99	3.333	1	7.0
+mucky	99	3.333	1	7.0
+prior	99	3.333	1	7.0
+still	99	3.333	1	7.0
+quirk	98	3.337	2	7.5
+alpha	100	3.34	none
+banal	100	3.34	none
+boule	100	3.34	none
+brawl	100	3.34	none
+chess	100	3.34	none
+cluck	100	3.34	none
+crepe	100	3.34	none
+derby	100	3.34	none
+deuce	100	3.34	none
+downy	100	3.34	none
+early	100	3.34	none
+equal	100	3.34	none
+fauna	100	3.34	none
+fiber	100	3.34	none
+focus	100	3.34	none
+gavel	100	3.34	none
+given	100	3.34	none
+grave	100	3.34	none
+grown	100	3.34	none
+guise	100	3.34	none
+handy	100	3.34	none
+impel	100	3.34	none
+knave	100	3.34	none
+micro	100	3.34	none
+missy	100	3.34	none
+oddly	100	3.34	none
+plunk	100	3.34	none
+pouty	100	3.34	none
+rebel	100	3.34	none
+repay	100	3.34	none
+risky	100	3.34	none
+shoal	100	3.34	none
+shrew	100	3.34	none
+slimy	100	3.34	none
+smack	100	3.34	none
+sweet	100	3.34	none
+there	100	3.34	none
+vital	100	3.34	none
+voter	100	3.34	none
+wager	100	3.34	none
+wispy	100	3.34	none
+would	100	3.34	none
+youth	100	3.34	none
+among	99	3.343	1	7.0
+azure	99	3.343	1	7.0
+bible	99	3.343	1	7.0
+bluer	99	3.343	1	7.0
+canny	99	3.343	1	7.0
+deity	99	3.343	1	7.0
+eagle	99	3.343	1	7.0
+gloss	99	3.343	1	7.0
+juror	99	3.343	1	7.0
+livid	99	3.343	1	7.0
+mafia	99	3.343	1	7.0
+niece	99	3.343	1	7.0
+stunt	99	3.343	1	8.0
+ennui	98	3.347	2	7.0
+going	98	3.347	2	7.0
+larva	98	3.347	2	7.0
+agate	100	3.35	none
+amuse	100	3.35	none
+baker	100	3.35	none
+bongo	100	3.35	none
+booth	100	3.35	none
+borax	100	3.35	none
+covet	100	3.35	none
+dilly	100	3.35	none
+dryly	100	3.35	none
+elope	100	3.35	none
+fixer	100	3.35	none
+freed	100	3.35	none
+guard	100	3.35	none
+hover	100	3.35	none
+limbo	100	3.35	none
+moist	100	3.35	none
+parka	100	3.35	none
+pubic	100	3.35	none
+query	100	3.35	none
+recur	100	3.35	none
+rival	100	3.35	none
+rusty	100	3.35	none
+sauna	100	3.35	none
+swami	100	3.35	none
+swung	100	3.35	none
+tense	100	3.35	none
+terra	100	3.35	none
+valet	100	3.35	none
+wacky	100	3.35	none
+welch	100	3.35	none
+wimpy	100	3.35	none
+colon	99	3.354	1	9.0
+elate	99	3.354	1	8.0
+mossy	99	3.354	1	7.0
+viola	99	3.354	1	8.0
+winch	99	3.354	1	7.0
+corer	98	3.357	2	8.0
+ruder	98	3.357	2	7.0
+wreck	98	3.357	2	7.0
+abase	100	3.36	none
+abbot	100	3.36	none
+asset	100	3.36	none
+basis	100	3.36	none
+batty	100	3.36	none
+beach	100	3.36	none
+bleed	100	3.36	none
+caulk	100	3.36	none
+chase	100	3.36	none
+comfy	100	3.36	none
+dally	100	3.36	none
+defer	100	3.36	none
+elude	100	3.36	none
+erode	100	3.36	none
+fable	100	3.36	none
+fewer	100	3.36	none
+filly	100	3.36	none
+flaky	100	3.36	none
+fluke	100	3.36	none
+flush	100	3.36	none
+funky	100	3.36	none
+honor	100	3.36	none
+idiom	100	3.36	none
+knack	100	3.36	none
+mambo	100	3.36	none
+marry	100	3.36	none
+moldy	100	3.36	none
+month	100	3.36	none
+owing	100	3.36	none
+pinky	100	3.36	none
+prize	100	3.36	none
+quark	100	3.36	none
+rocky	100	3.36	none
+showy	100	3.36	none
+start	100	3.36	none
+stool	100	3.36	none
+sully	100	3.36	none
+sworn	100	3.36	none
+taboo	100	3.36	none
+tithe	100	3.36	none
+truer	100	3.36	none
+trust	100	3.36	none
+berry	99	3.364	1	7.0
+bigot	99	3.364	1	9.0
+budge	99	3.364	1	7.0
+droll	99	3.364	1	7.0
+gayly	99	3.364	1	7.0
+gnash	99	3.364	1	8.0
+guide	99	3.364	1	8.0
+irony	99	3.364	1	8.0
+loopy	99	3.364	1	8.0
+outgo	99	3.364	1	7.0
+rally	99	3.364	1	7.0
+quote	98	3.367	2	7.0
+stock	98	3.367	2	7.0
+ahead	100	3.37	none
+apply	100	3.37	none
+armor	100	3.37	none
+cocoa	100	3.37	none
+dying	100	3.37	none
+exile	100	3.37	none
+extol	100	3.37	none
+heath	100	3.37	none
+hitch	100	3.37	none
+idiot	100	3.37	none
+nymph	100	3.37	none
+paper	100	3.37	none
+perky	100	3.37	none
+rebar	100	3.37	none
+rerun	100	3.37	none
+salsa	100	3.37	none
+sieve	100	3.37	none
+stiff	100	3.37	none
+stilt	100	3.37	none
+stuff	100	3.37	none
+sweep	100	3.37	none
+wordy	100	3.37	none
+buxom	99	3.374	1	7.0
+fever	99	3.374	1	7.0
+glass	99	3.374	1	7.0
+lousy	99	3.374	1	7.0
+octet	99	3.374	1	7.0
+sally	99	3.374	1	7.0
+sixth	99	3.374	1	7.0
+sooty	99	3.374	1	7.0
+swash	99	3.374	1	7.0
+udder	99	3.374	1	7.0
+verso	99	3.374	1	7.0
+vowel	99	3.374	1	7.0
+venue	98	3.378	2	7.0
+again	100	3.38	none
+aglow	100	3.38	none
+algae	100	3.38	none
+billy	100	3.38	none
+cheek	100	3.38	none
+dusky	100	3.38	none
+dwell	100	3.38	none
+fling	100	3.38	none
+flown	100	3.38	none
+foamy	100	3.38	none
+fussy	100	3.38	none
+gawky	100	3.38	none
+geeky	100	3.38	none
+gnome	100	3.38	none
+goody	100	3.38	none
+group	100	3.38	none
+guess	100	3.38	none
+gummy	100	3.38	none
+mania	100	3.38	none
+matey	100	3.38	none
+obese	100	3.38	none
+papal	100	3.38	none
+parer	100	3.38	none
+retry	100	3.38	none
+rider	100	3.38	none
+rower	100	3.38	none
+rural	100	3.38	none
+stave	100	3.38	none
+swift	100	3.38	none
+tasty	100	3.38	none
+tenet	100	3.38	none
+title	100	3.38	none
+toddy	100	3.38	none
+vouch	100	3.38	none
+whack	100	3.38	none
+whelp	100	3.38	none
+which	100	3.38	none
+whisk	100	3.38	none
+delve	99	3.384	1	7.0
+guava	99	3.384	1	8.0
+juicy	99	3.384	1	7.0
+ninth	99	3.384	1	8.0
+noose	99	3.384	1	7.0
+rotor	99	3.384	1	7.0
+semen	99	3.384	1	8.0
+thigh	99	3.384	1	7.0
+where	99	3.384	1	7.0
+shave	98	3.388	2	7.0
+abyss	100	3.39	none
+arbor	100	3.39	none
+bitty	100	3.39	none
+bossy	100	3.39	none
+broke	100	3.39	none
+buggy	100	3.39	none
+chide	100	3.39	none
+gamma	100	3.39	none
+godly	100	3.39	none
+grill	100	3.39	none
+hazel	100	3.39	none
+jerky	100	3.39	none
+lefty	100	3.39	none
+newer	100	3.39	none
+pesky	100	3.39	none
+piano	100	3.39	none
+plume	100	3.39	none
+privy	100	3.39	none
+puffy	100	3.39	none
+quill	100	3.39	none
+relax	100	3.39	none
+roger	100	3.39	none
+siege	100	3.39	none
+skimp	100	3.39	none
+snuff	100	3.39	none
+sperm	100	3.39	none
+surly	100	3.39	none
+swill	100	3.39	none
+thumb	100	3.39	none
+titan	100	3.39	none
+trait	100	3.39	none
+troop	100	3.39	none
+twist	100	3.39	none
+wooer	100	3.39	none
+wooly	100	3.39	none
+aback	97	3.392	3	7.333
+fully	97	3.392	3	7.0
+sewer	97	3.392	3	7.0
+aloof	99	3.394	1	7.0
+champ	99	3.394	1	7.0
+civil	99	3.394	1	7.0
+envoy	99	3.394	1	7.0
+hippo	99	3.394	1	7.0
+legal	99	3.394	1	8.0
+revel	99	3.394	1	7.0
+teddy	99	3.394	1	7.0
+zebra	99	3.394	1	7.0
+vodka	98	3.398	2	7.5
+beret	100	3.4	none
+biddy	100	3.4	none
+chord	100	3.4	none
+dress	100	3.4	none
+ember	100	3.4	none
+goose	100	3.4	none
+greed	100	3.4	none
+hydro	100	3.4	none
+knoll	100	3.4	none
+leave	100	3.4	none
+mecca	100	3.4	none
+moody	100	3.4	none
+poker	100	3.4	none
+qualm	100	3.4	none
+seize	100	3.4	none
+seven	100	3.4	none
+shall	100	3.4	none
+spoof	100	3.4	none
+theft	100	3.4	none
+venom	100	3.4	none
+witty	100	3.4	none
+woody	100	3.4	none
+woven	100	3.4	none
+agape	99	3.404	1	7.0
+chuck	99	3.404	1	7.0
+drill	99	3.404	1	7.0
+gross	99	3.404	1	7.0
+hunky	99	3.404	1	7.0
+iliac	99	3.404	1	8.0
+limit	99	3.404	1	7.0
+mimic	99	3.404	1	9.0
+odder	99	3.404	1	7.0
+spill	99	3.404	1	7.0
+vomit	99	3.404	1	7.0
+comma	98	3.408	2	7.0
+amaze	100	3.41	none
+aorta	100	3.41	none
+break	100	3.41	none
+bunny	100	3.41	none
+couch	100	3.41	none
+dummy	100	3.41	none
+elide	100	3.41	none
+etude	100	3.41	none
+extra	100	3.41	none
+gorge	100	3.41	none
+gypsy	100	3.41	none
+icing	100	3.41	none
+idyll	100	3.41	none
+jumbo	100	3.41	none
+pivot	100	3.41	none
+polyp	100	3.41	none
+skull	100	3.41	none
+smash	100	3.41	none
+staff	100	3.41	none
+swoop	100	3.41	none
+weedy	100	3.41	none
+catty	99	3.414	1	8.0
+cynic	99	3.414	1	7.0
+gouge	99	3.414	1	7.0
+gully	99	3.414	1	8.0
+hatch	99	3.414	1	7.0
+latte	99	3.414	1	8.0
+ovoid	99	3.414	1	7.0
+river	99	3.414	1	8.0
+surer	99	3.414	1	7.0
+vogue	99	3.414	1	9.0
+zesty	99	3.414	1	7.0
+eerie	98	3.418	2	7.5
+wight	98	3.418	2	7.5
+afoot	100	3.42	none
+alley	100	3.42	none
+arena	100	3.42	none
+bless	100	3.42	none
+blurb	100	3.42	none
+burly	100	3.42	none
+ditty	100	3.42	none
+dizzy	100	3.42	none
+dross	100	3.42	none
+drunk	100	3.42	none
+enjoy	100	3.42	none
+furry	100	3.42	none
+hunch	100	3.42	none
+joker	100	3.42	none
+lobby	100	3.42	none
+parry	100	3.42	none
+press	100	3.42	none
+putty	100	3.42	none
+refer	100	3.42	none
+twixt	100	3.42	none
+visit	100	3.42	none
+amass	99	3.424	1	7.0
+cubic	99	3.424	1	7.0
+cycle	99	3.424	1	7.0
+fifty	99	3.424	1	8.0
+forgo	99	3.424	1	7.0
+visor	99	3.424	1	7.0
+quiet	98	3.429	2	8.0
+annex	100	3.43	none
+bugle	100	3.43	none
+coach	100	3.43	none
+curry	100	3.43	none
+eject	100	3.43	none
+event	100	3.43	none
+floor	100	3.43	none
+friar	100	3.43	none
+froze	100	3.43	none
+funny	100	3.43	none
+humph	100	3.43	none
+inbox	100	3.43	none
+karma	100	3.43	none
+known	100	3.43	none
+rigid	100	3.43	none
+ruddy	100	3.43	none
+squad	100	3.43	none
+state	100	3.43	none
+digit	97	3.433	3	7.0
+trout	97	3.433	3	7.0
+awake	99	3.434	1	7.0
+cabby	99	3.434	1	8.0
+chick	99	3.434	1	7.0
+cinch	99	3.434	1	7.0
+dense	99	3.434	1	7.0
+dully	99	3.434	1	7.0
+gauze	99	3.434	1	7.0
+lasso	99	3.434	1	7.0
+macaw	99	3.434	1	8.0
+quick	99	3.434	1	7.0
+never	98	3.439	2	7.0
+allow	100	3.44	none
+annoy	100	3.44	none
+bliss	100	3.44	none
+bully	100	3.44	none
+carry	100	3.44	none
+dandy	100	3.44	none
+flail	100	3.44	none
+foray	100	3.44	none
+juice	100	3.44	none
+krill	100	3.44	none
+pasta	100	3.44	none
+revue	100	3.44	none
+skulk	100	3.44	none
+three	100	3.44	none
+total	100	3.44	none
+alloy	99	3.444	1	7.0
+bribe	99	3.444	1	7.0
+canon	99	3.444	1	7.0
+dowdy	99	3.444	1	7.0
+gauge	99	3.444	1	7.0
+harry	99	3.444	1	7.0
+hippy	99	3.444	1	7.0
+llama	99	3.444	1	7.0
+maize	99	3.444	1	7.0
+nurse	99	3.444	1	8.0
+pixie	99	3.444	1	7.0
+quilt	99	3.444	1	7.0
+quite	99	3.444	1	9.0
+rajah	99	3.444	1	7.0
+tooth	99	3.444	1	7.0
+segue	96	3.448	4	7.0
+boozy	98	3.449	2	7.5
+blood	100	3.45	none
+boxer	100	3.45	none
+cacti	100	3.45	none
+cheer	100	3.45	none
+crier	100	3.45	none
+easel	100	3.45	none
+foggy	100	3.45	none
+folio	100	3.45	none
+melee	100	3.45	none
+minty	100	3.45	none
+modem	100	3.45	none
+omega	100	3.45	none
+pizza	100	3.45	none
+quash	100	3.45	none
+rover	100	3.45	none
+snoop	100	3.45	none
+soggy	100	3.45	none
+unzip	100	3.45	none
+virus	100	3.45	none
+whiny	100	3.45	none
+verge	97	3.454	3	7.0
+ionic	99	3.455	1	7.0
+khaki	99	3.455	1	8.0
+leggy	99	3.455	1	7.0
+lucky	99	3.455	1	7.0
+naval	99	3.455	1	9.0
+razor	99	3.455	1	7.0
+crick	98	3.459	2	7.5
+teeth	98	3.459	2	7.0
+dodgy	100	3.46	none
+empty	100	3.46	none
+essay	100	3.46	none
+exert	100	3.46	none
+goofy	100	3.46	none
+offer	100	3.46	none
+oxide	100	3.46	none
+theta	100	3.46	none
+poppy	97	3.464	3	7.333
+serve	99	3.465	1	7.0
+awoke	100	3.47	none
+axial	100	3.47	none
+bayou	100	3.47	none
+brook	100	3.47	none
+folly	100	3.47	none
+furor	100	3.47	none
+gaffe	100	3.47	none
+ghoul	100	3.47	none
+grass	100	3.47	none
+libel	100	3.47	none
+onion	100	3.47	none
+sniff	100	3.47	none
+tweed	100	3.47	none
+rarer	99	3.475	1	7.0
+stint	99	3.475	1	8.0
+woken	99	3.475	1	7.0
+crock	98	3.48	2	7.0
+affix	100	3.48	none
+dicey	100	3.48	none
+embed	100	3.48	none
+ferry	100	3.48	none
+madam	100	3.48	none
+pique	100	3.48	none
+posse	100	3.48	none
+belly	99	3.485	1	7.0
+hussy	99	3.485	1	7.0
+vivid	99	3.485	1	7.0
+needy	98	3.49	2	7.0
+chaff	100	3.49	none
+ditto	100	3.49	none
+egret	100	3.49	none
+evoke	100	3.49	none
+exult	100	3.49	none
+fugue	100	3.49	none
+label	100	3.49	none
+lever	100	3.49	none
+minim	100	3.49	none
+ozone	100	3.49	none
+pulpy	100	3.49	none
+quack	100	3.49	none
+ensue	99	3.495	1	7.0
+golly	99	3.495	1	8.0
+magma	99	3.495	1	7.0
+spook	99	3.495	1	7.0
+adapt	100	3.5	none
+excel	100	3.5	none
+noise	100	3.5	none
+order	100	3.5	none
+skill	100	3.5	none
+swish	100	3.5	none
+tabby	100	3.5	none
+tryst	100	3.5	none
+undid	100	3.5	none
+awash	99	3.505	1	7.0
+weave	99	3.505	1	7.0
+worry	99	3.505	1	7.0
+evade	98	3.51	2	7.0
+beefy	100	3.51	none
+bluff	100	3.51	none
+cacao	100	3.51	none
+dryer	100	3.51	none
+icily	100	3.51	none
+level	100	3.51	none
+petty	100	3.51	none
+piggy	100	3.51	none
+quasi	100	3.51	none
+quest	100	3.51	none
+sassy	100	3.51	none
+sense	100	3.51	none
+wedge	100	3.51	none
+queer	99	3.515	1	7.0
+abbey	100	3.52	none
+baggy	100	3.52	none
+bezel	100	3.52	none
+gooey	100	3.52	none
+heave	100	3.52	none
+hobby	100	3.52	none
+ovary	100	3.52	none
+queen	100	3.52	none
+aging	99	3.525	1	8.0
+avail	99	3.525	1	7.0
+exact	99	3.525	1	7.0
+ninja	99	3.525	1	7.0
+equip	100	3.53	none
+every	100	3.53	none
+femme	100	3.53	none
+groom	100	3.53	none
+lowly	100	3.53	none
+silly	100	3.53	none
+squib	100	3.53	none
+masse	99	3.535	1	7.0
+tutor	99	3.535	1	7.0
+error	100	3.54	none
+giddy	100	3.54	none
+mummy	100	3.54	none
+shook	100	3.54	none
+inner	98	3.541	2	7.0
+jetty	98	3.541	2	7.0
+kitty	98	3.541	2	8.5
+savvy	98	3.541	2	7.0
+sissy	98	3.541	2	7.0
+judge	99	3.545	1	8.0
+motto	99	3.545	1	7.0
+purer	97	3.546	3	7.0
+belle	100	3.55	none
+freer	100	3.55	none
+kinky	100	3.55	none
+maxim	100	3.55	none
+upper	100	3.55	none
+daddy	98	3.551	2	7.5
+mammy	98	3.551	2	7.0
+shush	98	3.551	2	7.5
+allay	99	3.556	1	7.0
+fluff	99	3.556	1	7.0
+jelly	99	3.556	1	8.0
+myrrh	99	3.556	1	7.0
+caddy	100	3.56	none
+jumpy	100	3.56	none
+hilly	98	3.561	2	7.5
+elegy	100	3.57	none
+geese	100	3.57	none
+koala	100	3.57	none
+nanny	100	3.57	none
+pygmy	100	3.57	none
+avian	99	3.576	1	9.0
+puppy	99	3.576	1	7.0
+quell	100	3.58	none
+willy	100	3.58	none
+jiffy	99	3.586	1	7.0
+kappa	99	3.586	1	7.0
+clack	100	3.59	none
+penne	100	3.59	none
+tweet	100	3.59	none
+civic	99	3.596	1	8.0
+check	100	3.6	none
+quake	100	3.61	none
+whiff	100	3.61	none
+widow	100	3.61	none
+emcee	99	3.616	1	7.0
+guppy	100	3.62	none
+kebab	100	3.62	none
+skiff	100	3.62	none
+tatty	100	3.62	none
+queue	98	3.622	2	7.5
+mamma	100	3.63	none
+expel	100	3.64	none
+fatty	100	3.64	none
+sushi	100	3.64	none
+booby	100	3.65	none
+covey	100	3.65	none
+knock	100	3.65	none
+wryly	100	3.65	none
+jazzy	99	3.667	1	7.0
+jolly	99	3.667	1	8.0
+slyly	99	3.667	1	7.0
+array	100	3.67	none
+assay	100	3.68	none
+fuzzy	99	3.697	1	7.0
+verve	100	3.71	none
+bobby	99	3.717	1	8.0
+woozy	99	3.727	1	7.0
+jewel	100	3.73	none
+kayak	100	3.73	none
+tepee	100	3.73	none
+fizzy	99	3.798	1	7.0
+ninny	100	3.8	none

@@ -51,6 +51,6 @@ class Aggregate_best:
         return final_list
 
 
-sol = Aggregate_best()
-final_list = sol.find_average_dict("outputs/6_letter/output_100_", l_100)
+#sol = Aggregate_best()
+#final_list = sol.find_average_dict("outputs/6_letter/output_100_", l_100)
 # print(*final_list)

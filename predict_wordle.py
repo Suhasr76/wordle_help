@@ -32,7 +32,7 @@ glo_flag = False
 # dependencies
 
 l_100 = [1, 2, 3, 4]
-l_1000 = [1, 2, 3]
+l_1000 = [1, 2, 3, 4]
 sol1 = Aggregate_best()
 rankList = sol1.find_average_dict("outputs/5_letter/output_1000_", l_1000)
 
